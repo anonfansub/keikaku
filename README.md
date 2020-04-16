@@ -1,12 +1,8 @@
-<a href="http://www.anonfansub.com/"><img src="https://www.kindpng.com/picc/m/371-3715595_cartoon-png-download-ryuko-matoi-transparent-png.png" title="AF" alt="anon" height="200px"></a>
-
-<!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
-
-***INSERT GRAPHIC HERE (include hyperlink in image)***
+<a href="http://www.anonfansub.com/"><img src="https://coverfiles.alphacoders.com/903/90335.png" title="AF" alt="anon" width="777px"></a>
 
 # Anon Fansub Subtitles Repository
 
-> Subtitle or Short Description Goes Here
+> Todas as legendas dos nossos projetos estão disponíveis aqui
 
 > ideally one sentence
 
@@ -43,25 +39,14 @@
 
 > If your `README` has a lot of info, section headers might be nice.
 
-- [Installation](#installation)
-- [Features](#features)
 - [Contributing](#contributing)
-- [Team](#team)
+- [Equipe](#equipe)
 - [FAQ](#faq)
-- [Support](#support)
+- [Contato](#contato)
 - [License](#license)
 
 
 ---
-
-## Installation
-
-- All the `code` required to get started
-- Images of what it should look like
-
-### Clone
-
-- Clone this repo to your local machine using `https://github.com/anonfansub/keikaku.git`
 
 ### Setup
 
@@ -78,9 +63,9 @@ $ yarn install
 
 ---
 
-## Contributing
+## Tutorial
 
-> To get started...
+> Tutorial para novos colaboradores...
 
 ### Step 1
 
@@ -127,11 +112,10 @@ Reach out to me at one of the following places!
 
 - Website at <a href="http://fvcproductions.com" target="_blank">`fvcproductions.com`</a>
 - Twitter at <a href="http://twitter.com/fvcproductions" target="_blank">`@fvcproductions`</a>
-- Insert more social links here.
 
 ---
 
-## Donations (Optional)
+## Donations
 
 - You could include a <a href="https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.png" target="_blank">Gratipay</a> link as well.
 
