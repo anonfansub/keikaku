@@ -74,9 +74,19 @@ $ git push origin master
 
 > Nossos colaboradores
 
-| <a href="http://fvcproductions.com" target="_blank">**awface**</a> | <a href="http://fvcproductions.com" target="_blank">**um**</a> | <a href="http://fvcproductions.com" target="_blank">**tenten**</a> |
-| <img src="https://i.imgur.com/OmBqykt.jpg" alt="avatar" width="128" height="128"> |<img src="https://i.imgur.com/Mx9bjCa.jpg" alt="avatar" width="128" height="128">| <img src="https://i.imgur.com/4etBVWj.jpg" alt="avatar" width="128" height="128">|
-| top 1 tristana mundo | pipoqueiro | vagabond |
+| <a href="http://fvcproductions.com" target="_blank">**awface**</a> 
+| <a href="http://fvcproductions.com" target="_blank">**um**</a> 
+| <a href="http://fvcproductions.com" target="_blank">**tenten**</a> 
+|
+| :---: |:---:| :---:|
+| <img src="https://i.imgur.com/OmBqykt.jpg" alt="avatar" width="128" height="128"> 
+| <img src="https://i.imgur.com/Mx9bjCa.jpg" alt="avatar" width="128" height="128">
+| <img src="https://i.imgur.com/4etBVWj.jpg" alt="avatar" width="128" height="128">
+|
+| top 1 tristana mundo 
+| pipoqueiro
+| vagabond
+|
 
 
 ---
