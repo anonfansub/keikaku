@@ -1,10 +1,10 @@
-<a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
+<a href="http://www.anonfansub.com/"><img src="https://www.kindpng.com/picc/m/371-3715595_cartoon-png-download-ryuko-matoi-transparent-png.png" title="AF" alt="anon"></a>
 
 <!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
 
 ***INSERT GRAPHIC HERE (include hyperlink in image)***
 
-# Repository Title Goes Here
+# Anon Fansub Subtitles Repository
 
 > Subtitle or Short Description Goes Here
 
@@ -61,37 +61,20 @@
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/fvcproductions/SOMEREPO`
+- Clone this repo to your local machine using `https://github.com/anonfansub/keikaku.git`
 
 ### Setup
 
 - If you want more syntax highlighting, format your code like this:
 
-> update and install this package first
-
-```shell
-$ brew update
-$ brew install fvcproductions
-```
-
-> now install npm and bower packages
+> now install npm and yarn packages
 
 ```shell
 $ npm install
-$ bower install
+$ yarn install
 ```
 
 - For all the possible languages that support syntax highlithing on GitHub (which is basically all of them), refer <a href="https://github.com/github/linguist/blob/master/lib/linguist/languages.yml" target="_blank">here</a>.
-
----
-
-## Features
-## Usage (Optional)
-## Documentation (Optional)
-## Tests (Optional)
-
-- Going into more detail on code and technologies used
-- I utilized this nifty <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown Cheatsheet</a> for this sample `README`.
 
 ---
 
@@ -105,7 +88,7 @@ $ bower install
     - 🍴 Fork this repo!
 
 - **Option 2**
-    - 👯 Clone this repo to your local machine using `https://github.com/joanaz/HireDot2.git`
+    - 👯 Clone this repo to your local machine using `https://github.com/anonfansub/keikaku.git`
 
 ### Step 2
 
@@ -117,11 +100,11 @@ $ bower install
 
 ---
 
-## Team
+## Equipe
 
-> Or Contributors/People
+> Nossos colaboradores
 
-| <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> |
+| <a href="http://fvcproductions.com" target="_blank">**awface**</a> | <a href="http://fvcproductions.com" target="_blank">**um**</a> | <a href="http://fvcproductions.com" target="_blank">**tenten**</a> |
 | :---: |:---:| :---:|
 | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)    | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)  |
 | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> |
@@ -138,7 +121,7 @@ $ bower install
 
 ---
 
-## Support
+## Contato
 
 Reach out to me at one of the following places!
 
