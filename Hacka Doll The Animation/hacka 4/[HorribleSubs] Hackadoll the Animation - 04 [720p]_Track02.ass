@@ -1,0 +1,168 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Hackadoll_Main,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Hackadoll_Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Hackadoll_Flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Hackadoll_Flashback_Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Hackadoll_Ep_Title,Open Sans Semibold,24,&H00FFFFFF,&H000000FF,&H007DBB5E,&H00000000,1,1,0,0,100,100,0,0,1,2,0,9,13,67,73,1
+Style: game dialog,Open Sans Semibold,18,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,1,0,0,28,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:01:30.34,0:01:31.48,Hackadoll_Main,Childhood Friend,0000,0000,0000,,Hey...
+Dialogue: 0,0:01:31.48,0:01:34.26,Hackadoll_Main,CF,0000,0000,0000,,What do I mean to you, Ikuo?
+Dialogue: 0,0:01:34.26,0:01:37.49,Hackadoll_Main,CF,0000,0000,0000,,Am I just a girl you grew up with?
+Dialogue: 0,0:01:37.51,0:01:40.24,game dialog,Childhood Friend,0100,0001,0075,,Hey... What do I mean to you, Ikuo?
+Dialogue: 0,0:01:37.51,0:01:40.24,game dialog,Childhood Friend,0100,0001,0055,,Am I just a girl you grew up with?
+Dialogue: 0,0:01:41.12,0:01:42.82,game dialog,Ikuo,0108,0319,0075,,1. "Yes. Just a girl I grew up with."
+Dialogue: 0,0:01:41.12,0:01:42.82,game dialog,Ikuo,0336,0001,0075,,2. "No. You're my girlfriend."
+Dialogue: 0,0:01:41.12,0:01:42.82,game dialog,Ikuo,0108,0319,0050,,3. "Nothing. I don't even know you."
+Dialogue: 0,0:01:41.12,0:01:42.82,game dialog,Ikuo,0336,0001,0050,,4. "..."
+Dialogue: 0,0:01:42.82,0:01:43.81,Hackadoll_Main,Childhood Friend,0000,0000,0000,,{\a6}I'm so happy!
+Dialogue: 0,0:01:43.02,0:01:45.86,game dialog,CF,0100,0001,0075,,I'm so happy!
+Dialogue: 0,0:01:43.70,0:01:45.86,game dialog,CF,0100,0001,0055,,So now we're boyfriend and girlfriend!
+Dialogue: 0,0:01:43.81,0:01:45.87,Hackadoll_Main,Childhood Friend,0000,0000,0000,,{\a6}So now we're boyfriend and girlfriend!
+Dialogue: 0,0:01:46.75,0:01:48.87,Hackadoll_Main,Ikuo,0000,0000,0000,,As if this would ever happen.
+Dialogue: 0,0:01:49.53,0:01:52.34,Hackadoll_Main,Childhood Friend,0000,0000,0000,,{\a6}Hey, Ikuo, is it okay if I come into your room?
+Dialogue: 0,0:01:49.77,0:01:54.87,game dialog,CF,0100,0001,0075,,Hey, Ikuo, is it okay if I come into your room?
+Dialogue: 0,0:01:52.72,0:01:54.88,Hackadoll_Main,Childhood Friend,0000,0000,0000,,{\a6}Your parents aren't home today, right?
+Dialogue: 0,0:01:52.75,0:01:54.87,game dialog,CF,0100,0001,0055,,Your parents aren't home today, right?
+Dialogue: 0,0:01:54.88,0:01:57.76,Hackadoll_Main,Ikuo,0000,0000,0000,,Unexpected plot twist!
+Dialogue: 0,0:01:57.76,0:02:01.73,Hackadoll_Main,Ikuo,0000,0000,0000,,Well, if this were reality, \NI'd never even get to know any girls.
+Dialogue: 0,0:02:01.73,0:02:03.70,Hackadoll_Main,Ikuo,0000,0000,0000,,Well, I'd better be a gentleman.
+Dialogue: 0,0:02:04.14,0:02:06.14,game dialog,Childhood Friend,0100,0001,0075,,Hey... What do I mean to you, Ikuo?
+Dialogue: 0,0:02:04.14,0:02:06.14,game dialog,Childhood Friend,0100,0001,0055,,Am I just a girl you grew up with?
+Dialogue: 0,0:02:04.84,0:02:05.51,Hackadoll_Main,Ikuo,0000,0000,0000,,Huh?
+Dialogue: 0,0:02:07.86,0:02:09.32,Hackadoll_Main,Ikuo,0000,0000,0000,,What the heck?!
+Dialogue: 0,0:02:09.32,0:02:11.21,Hackadoll_Main,Ikuo,0000,0000,0000,,I was just getting to the good part.
+Dialogue: 0,0:02:19.65,0:02:24.03,Hackadoll_Main,#2,0000,0000,0000,,We are the Personal Entertainment \NAI that syncs to you: HackaDolls!
+Dialogue: 0,0:02:24.26,0:02:25.39,Hackadoll_Main,#2,0000,0000,0000,,Wait, what?
+Dialogue: 0,0:02:25.39,0:02:26.76,Hackadoll_Main,#2,0000,0000,0000,,Just me?
+Dialogue: 0,0:02:28.32,0:02:29.67,Hackadoll_Italics,Ikuo,0000,0000,0000,,A girl...
+Dialogue: 0,0:02:30.00,0:02:32.04,Hackadoll_Main,#2,0000,0000,0000,,{\a6}I wonder what happened to the other two.
+Dialogue: 0,0:02:31.35,0:02:33.75,Hackadoll_Italics,Ikuo,0000,0000,0000,,A girl suddenly appeared in my room...
+Dialogue: 0,0:02:32.70,0:02:34.66,Hackadoll_Main,#2,0000,0000,0000,,{\a6}Hm, that sure is strange...
+Dialogue: 0,0:02:34.28,0:02:36.30,Hackadoll_Italics,Ikuo,0000,0000,0000,,Wh-What sort of eroge is this?
+Dialogue: 0,0:02:36.30,0:02:37.33,Hackadoll_Main,#2,0000,0000,0000,,Well, whatever.
+Dialogue: 0,0:02:37.92,0:02:41.43,Hackadoll_Main,#2,0000,0000,0000,,Is there anything you wish \Nfor me to advance for you?
+Dialogue: 0,0:02:41.72,0:02:44.44,Hackadoll_Italics,Ikuo,0000,0000,0000,,Whoa... What do I do now?!
+Dialogue: 0,0:02:45.45,0:02:49.42,Hackadoll_Ep_Title,Text,0000,0000,0000,,{\fad(1000,250)}Episode 4: "Take a Shower First"
+Dialogue: 0,0:02:50.05,0:02:51.37,Hackadoll_Main,Ikuo,0000,0000,0000,,Calm down, Ikuo.
+Dialogue: 0,0:02:51.37,0:02:54.97,Hackadoll_Main,Ikuo,0000,0000,0000,,I'm not sure how it happened, but this \Nis my chance to get to know a girl!
+Dialogue: 0,0:02:54.97,0:02:57.08,Hackadoll_Main,Ikuo,0000,0000,0000,,First impressions are key!
+Dialogue: 0,0:02:56.25,0:02:57.08,Hackadoll_Main,#2,0000,0000,0000,,Excuse me...
+Dialogue: 0,0:02:58.26,0:02:59.22,Hackadoll_Main,Ikuo,0000,0000,0000,,Yes?!
+Dialogue: 0,0:02:59.22,0:03:01.43,Hackadoll_Main,#2,0000,0000,0000,,{\a6}Would you tell me your name?
+Dialogue: 0,0:02:59.22,0:03:01.44,game dialog,#2,0100,0001,0075,,Would you tell me your name?
+Dialogue: 0,0:03:01.47,0:03:05.44,game dialog,Ikuo,0108,0320,0075,,1. "..."
+Dialogue: 0,0:03:01.47,0:03:05.44,game dialog,Ikuo,0336,0001,0075,,2. "My name is Ikuo. Nice to meet you!"
+Dialogue: 0,0:03:01.47,0:03:05.44,game dialog,Ikuo,0108,0320,0050,,3. "Call me Kokuryuuin Ikuo-sama."
+Dialogue: 0,0:03:01.47,0:03:05.44,game dialog,Ikuo,0336,0001,0050,,4. "I can't give away personal information..."
+Dialogue: 0,0:03:08.28,0:03:09.63,Hackadoll_Italics,Ikuo,0000,0000,0000,,What the hell am I doing?!
+Dialogue: 0,0:03:09.63,0:03:11.48,Hackadoll_Italics,Ikuo,0000,0000,0000,,In a game, this'd be a piece of cake!
+Dialogue: 0,0:03:11.48,0:03:12.21,Hackadoll_Main,#2,0000,0000,0000,,Excuse me...
+Dialogue: 0,0:03:12.60,0:03:15.33,game dialog,#2,0100,0000,0075,,What should I call you?
+Dialogue: 0,0:03:12.70,0:03:15.34,Hackadoll_Main,#2,0000,0000,0000,,{\a6}What should I call you?
+Dialogue: 0,0:03:15.36,0:03:19.20,game dialog,Ikuo,0108,0300,0075,,1. "Call me Ikuo."
+Dialogue: 0,0:03:15.36,0:03:19.20,game dialog,Ikuo,0308,0001,0075,,2. "Call me Iku-chan!"
+Dialogue: 0,0:03:15.36,0:03:19.20,game dialog,Ikuo,0108,0300,0050,,3. "Call me Master."
+Dialogue: 0,0:03:15.36,0:03:19.20,game dialog,Ikuo,0308,0001,0050,,4. "What the hell is HackaDoll #2 anyway?"
+Dialogue: 0,0:03:16.88,0:03:18.21,Hackadoll_Italics,Ikuo,0000,0000,0000,,{\a6}This time for sure!
+Dialogue: 0,0:03:19.72,0:03:21.20,Hackadoll_Main,Ikuo,0000,0000,0000,,I-Ikyuo ish my name.
+Dialogue: 0,0:03:22.43,0:03:25.43,Hackadoll_Italics,Ikuo,0000,0000,0000,,This isn't working! I thought \NI chose my words perfectly, too!
+Dialogue: 0,0:03:27.14,0:03:28.57,Hackadoll_Main,#2,0000,0000,0000,,Ikuo-san?
+Dialogue: 0,0:03:29.02,0:03:30.23,Hackadoll_Main,#2,0000,0000,0000,,Nice to meet you.
+Dialogue: 0,0:03:31.59,0:03:32.93,Hackadoll_Main,Ikuo,0000,0000,0000,,So cute.
+Dialogue: 0,0:03:32.93,0:03:36.18,Hackadoll_Italics,#2,0000,0000,0000,,Still, what about him shall I advance?
+Dialogue: 0,0:03:38.04,0:03:39.20,Hackadoll_Main,Ikuo,0000,0000,0000,,Uh, wait...
+Dialogue: 0,0:03:39.20,0:03:41.05,Hackadoll_Main,Ikuo,0000,0000,0000,,Let me clean up this mess.
+Dialogue: 0,0:03:42.05,0:03:43.77,Hackadoll_Main,#2,0000,0000,0000,,Oh, yes! Cleaning!
+Dialogue: 0,0:03:43.77,0:03:45.72,Hackadoll_Main,#2,0000,0000,0000,,I can do that for you.
+Dialogue: 0,0:03:45.72,0:03:47.87,Hackadoll_Main,Ikuo,0000,0000,0000,,Huh?! No, you don't need to...
+Dialogue: 0,0:03:52.20,0:03:54.12,Hackadoll_Main,#2,0000,0000,0000,,U-Um...
+Dialogue: 0,0:03:54.44,0:03:57.83,game dialog,Ikuo,0108,0265,0077,,1. "S-Sorry!"
+Dialogue: 0,0:03:54.44,0:03:57.83,game dialog,Ikuo,0280,0001,0077,,2. "You'd better do as I say."
+Dialogue: 0,0:03:54.44,0:03:57.83,game dialog,Ikuo,0108,0000,0050,,3. "Damn, you're cute."
+Dialogue: 0,0:03:54.44,0:03:57.83,game dialog,Ikuo,0280,0001,0050,,4. "Heh, look, a wall slam! Didn't see that trope coming!"
+Dialogue: 0,0:03:58.04,0:04:00.11,Hackadoll_Main,Ikuo,0000,0000,0000,,Ah... Never mind! Just sit there.
+Dialogue: 0,0:04:00.11,0:04:01.61,Hackadoll_Main,Ikuo,0000,0000,0000,,Um, here, read this!
+Dialogue: 0,0:04:02.67,0:04:06.22,Hackadoll_Italics,Ikuo,0000,0000,0000,,Damn it, this isn't working\Nlike it does in games!
+Dialogue: 0,0:04:08.96,0:04:13.03,Hackadoll_Italics,#2,0000,0000,0000,,It almost feels like he's the one advancing me.
+Dialogue: 0,0:04:13.03,0:04:15.73,Hackadoll_Italics,#2,0000,0000,0000,,But I need to advance him at least a bit...
+Dialogue: 0,0:04:16.20,0:04:17.93,Hackadoll_Main,#2,0000,0000,0000,,Excuse me, Ikuo-san?
+Dialogue: 0,0:04:17.93,0:04:19.00,Hackadoll_Main,Ikuo,0000,0000,0000,,Huh? Yeah...
+Dialogue: 0,0:04:19.00,0:04:21.36,Hackadoll_Main,#2,0000,0000,0000,,What shall I do after this?
+Dialogue: 0,0:04:21.80,0:04:23.86,Hackadoll_Main,#2,0000,0000,0000,,I can advance anything for you.
+Dialogue: 0,0:04:25.67,0:04:28.61,Hackadoll_Main,#2,0000,0000,0000,,Shall we both lie down and relax?
+Dialogue: 0,0:04:28.61,0:04:29.37,Hackadoll_Main,#2,0000,0000,0000,,Just kidding!
+Dialogue: 0,0:04:30.50,0:04:32.42,Hackadoll_Main,Ikuo,0000,0000,0000,,I-I'll get some drinks!
+Dialogue: 0,0:04:36.70,0:04:38.10,Hackadoll_Flashback,#2 FB,0000,0000,0000,,Ikuo-san?
+Dialogue: 0,0:04:38.10,0:04:39.63,Hackadoll_Flashback,#2 FB,0000,0000,0000,,I can advance anything for you.
+Dialogue: 0,0:04:40.00,0:04:41.87,Hackadoll_Flashback,#2 FB,0000,0000,0000,,Shall we both lie down and relax?
+Dialogue: 0,0:04:41.87,0:04:44.34,Hackadoll_Italics,Ikuo,0000,0000,0000,,That smile is totally unfair.
+Dialogue: 0,0:04:44.34,0:04:45.92,Hackadoll_Italics,Ikuo,0000,0000,0000,,"Shall we both lie down?"
+Dialogue: 0,0:04:45.92,0:04:48.40,Hackadoll_Italics,Ikuo,0000,0000,0000,,Oh, crap... I haven't even done anything,
+Dialogue: 0,0:04:48.40,0:04:52.01,Hackadoll_Italics,Ikuo,0000,0000,0000,,and yet it's all going so smoothly, \Neven in reality... Is that possible?
+Dialogue: 0,0:04:52.01,0:04:53.85,Hackadoll_Italics,Ikuo,0000,0000,0000,,Anyway, gotta be a gentleman...
+Dialogue: 0,0:04:54.73,0:04:56.35,Hackadoll_Main,Ikuo,0000,0000,0000,,I-I'm back...
+Dialogue: 0,0:04:56.81,0:04:58.48,Hackadoll_Main,#2,0000,0000,0000,,Oh, thank you.
+Dialogue: 0,0:05:03.14,0:05:06.41,Hackadoll_Main,#2,0000,0000,0000,,Oh, dear... Look what you did to me...
+Dialogue: 0,0:05:09.38,0:05:10.89,Hackadoll_Main,Ikuo,0000,0000,0000,,S-S-Sorry!
+Dialogue: 0,0:05:10.89,0:05:13.00,Hackadoll_Main,#2,0000,0000,0000,,I'm all wet.
+Dialogue: 0,0:05:13.58,0:05:15.50,Hackadoll_Main,#2,0000,0000,0000,,Oh, well...
+Dialogue: 0,0:05:20.60,0:05:23.13,Hackadoll_Main,Ikuo,0000,0000,0000,,Uh, you should take a shower first!
+Dialogue: 0,0:05:23.50,0:05:25.57,Hackadoll_Main,#2,0000,0000,0000,,Huh? O-Okay...
+Dialogue: 0,0:05:31.00,0:05:33.28,Hackadoll_Italics,#2,0000,0000,0000,,I'm supposed to be advancing Ikuo-san.
+Dialogue: 0,0:05:33.28,0:05:36.39,Hackadoll_Italics,,0000,0000,0000,,Why am I taking a shower instead?
+Dialogue: 0,0:05:37.82,0:05:40.40,Hackadoll_Italics,Ikuo,0000,0000,0000,,Wh-What should I do next?
+Dialogue: 0,0:05:40.67,0:05:43.91,Hackadoll_Italics,#2,0000,0000,0000,,And why was I even summoned \Nhere in the first place?
+Dialogue: 0,0:05:46.21,0:05:47.62,Hackadoll_Flashback,FB Ikuo,0000,0000,0000,,You should take a shower first!
+Dialogue: 0,0:05:47.62,0:05:48.86,Hackadoll_Flashback,FB #2,0000,0000,0000,,O-Okay...
+Dialogue: 0,0:05:49.32,0:05:51.24,Hackadoll_Italics,#2,0000,0000,0000,,Huh... Could it be...
+Dialogue: 0,0:05:51.24,0:05:53.90,Hackadoll_Italics,#2,0000,0000,0000,,Could it be that's what this is all about?!
+Dialogue: 0,0:05:53.90,0:05:55.11,Hackadoll_Italics,#2,0000,0000,0000,,Oh... Oh, no...
+Dialogue: 0,0:05:55.11,0:05:57.28,Hackadoll_Italics,#2,0000,0000,0000,,What should I do?
+Dialogue: 0,0:05:57.28,0:05:59.25,Hackadoll_Italics,#2,0000,0000,0000,,Oh, what should I do?
+Dialogue: 0,0:06:00.17,0:06:01.64,Hackadoll_Italics,#2,0000,0000,0000,,What should I do?
+Dialogue: 0,0:06:05.82,0:06:07.93,Hackadoll_Italics,#2,0000,0000,0000,,Am I supposed to do something like this?
+Dialogue: 0,0:06:08.36,0:06:10.91,Hackadoll_Main,Ikuo,0000,0000,0000,,Sorry that was all I had for you to wear.
+Dialogue: 0,0:06:10.91,0:06:11.64,Hackadoll_Main,#2,0000,0000,0000,,It's okay...
+Dialogue: 0,0:06:17.79,0:06:18.64,Hackadoll_Main,Both,0000,0000,0000,,Um...
+Dialogue: 0,0:06:19.26,0:06:20.95,Hackadoll_Main,#2,0000,0000,0000,,Oh, you first.
+Dialogue: 0,0:06:20.95,0:06:22.36,Hackadoll_Main,Ikuo,0000,0000,0000,,No, uh...
+Dialogue: 0,0:06:24.41,0:06:26.07,Hackadoll_Main,Ikuo,0000,0000,0000,,L-Let's watch TV...
+Dialogue: 0,0:06:40.47,0:06:43.96,Hackadoll_Main,#3,0000,0000,0000,,Stare...
+Dialogue: 0,0:06:44.37,0:06:46.34,Hackadoll_Main,#3,0000,0000,0000,,Don't mind me. Please continue.
+Dialogue: 0,0:06:48.61,0:06:50.68,Hackadoll_Main,#1,0000,0000,0000,,Sorry for the wait!
+Dialogue: 0,0:06:52.76,0:06:56.69,Hackadoll_Main,#1,0000,0000,0000,,I'm sorry! Gosh, you're all wet... Um, um...
+Dialogue: 0,0:06:59.34,0:07:01.98,Hackadoll_Main,#2,0000,0000,0000,,I'm sorry about what #1-chan did.
+Dialogue: 0,0:07:02.83,0:07:04.24,Hackadoll_Main,Ikuo,0000,0000,0000,,Oh, it's okay...
+Dialogue: 0,0:07:04.24,0:07:05.26,Hackadoll_Main,#3,0000,0000,0000,,Change of clothes.
+Dialogue: 0,0:07:05.26,0:07:07.01,Hackadoll_Main,#2,0000,0000,0000,,Oh, thanks.
+Dialogue: 0,0:07:09.49,0:07:10.70,Hackadoll_Main,#1,0000,0000,0000,,No peeking!
+Dialogue: 0,0:07:10.70,0:07:12.32,Hackadoll_Main,#3,0000,0000,0000,,No touching, either!
+Dialogue: 0,0:07:12.32,0:07:15.43,Hackadoll_Main,Ikuo-Mom,0000,0000,0000,,Ikuo, I bought some pork buns!
+Dialogue: 0,0:07:15.43,0:07:16.08,Hackadoll_Main,,0000,0000,0000,,Wait...
+Dialogue: 0,0:07:16.33,0:07:17.63,Hackadoll_Main,Ikuo-Mom,0000,0000,0000,,What are you...?!
+Dialogue: 0,0:07:19.73,0:07:22.41,game dialog,Ikuo,0100,0315,0076,,1. "I just wanted you to have grandchildren..."
+Dialogue: 0,0:07:19.73,0:07:22.41,game dialog,Ikuo,0336,0001,0076,,2. "Don't worry, we showered first."
+Dialogue: 0,0:07:19.73,0:07:22.41,game dialog,Ikuo,0108,0320,0050,,3. "Uh, well, um..."
+Dialogue: 0,0:07:19.73,0:07:22.41,game dialog,Ikuo,0336,0001,0050,,4. "This isn't what you think! Really!"
+Dialogue: 0,0:07:25.06,0:07:26.80,Hackadoll_Main,Ikuo-Mom,0000,0000,0000,,Ikuo, listen here...
+Dialogue: 0,0:07:26.80,0:07:28.88,Hackadoll_Main,Ikuo-Mom,0000,0000,0000,,Just because you're legally an adult now
+Dialogue: 0,0:07:28.88,0:07:32.01,Hackadoll_Main,,0000,0000,0000,,doesn't mean you can bring home girls\Nin the middle of the day on a weekend...
+Dialogue: 0,0:07:32.01,0:07:34.56,Hackadoll_Main,Ikuo-Mom,0000,0000,0000,,And to your parents' house...\NI mean, I don't mind!
+Dialogue: 0,0:07:34.56,0:07:38.36,Hackadoll_Main,Ikuo-Mom,0000,0000,0000,,I really don't, but I'd be so \Nhumiliated if the neighbors saw...
+Dialogue: 0,0:07:38.36,0:07:40.59,Hackadoll_Main,Ikuo-Mom,0000,0000,0000,,And wait, isn't this that "cosplay" thing?
+Dialogue: 0,0:07:40.59,0:07:45.60,Hackadoll_Main,Ikuo-Mom,0000,0000,0000,,Cosplay? I dunno, but if it were \Nat least something more normal...
+Dialogue: 0,0:07:45.60,0:07:48.48,Hackadoll_Main,Ikuo-Mom,0000,0000,0000,,Dad, say something to him!

@@ -1,0 +1,148 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Hackadoll_Main,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Hackadoll_Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Hackadoll_Flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Hackadoll_Flashback_Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Hackadoll_Ep_Title,Open Sans Semibold,24,&H00FFFFFF,&H000000FF,&H007DBB5E,&H00000000,1,1,0,0,100,100,0,0,1,2,0,9,13,67,73,1
+Style: yuppi,Open Sans Semibold,21,&H00A39EA2,&H000000FF,&H00A45A21,&H00000000,1,0,0,0,100,100,0,0,1,3,0,2,13,13,13,1
+Style: heartyup,Open Sans Semibold,24,&H00070805,&H000000FF,&H00EFF0ED,&H00000000,1,0,0,0,100,100,0,0,1,4,0,8,13,13,27,1
+Style: disclaimer,Open Sans Semibold,21,&H00FFFFFF,&H000000FF,&H001B2327,&H00000000,1,0,0,0,100,100,0,0,1,2,0,2,13,13,13,1
+Style: VAPolice,Open Sans Semibold,39,&H001F11D8,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,1,2,8,13,13,27,1
+Style: vacreds,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H00787F7E,&H00787F7E,1,0,0,0,100,100,0,0,1,1,2,8,13,13,13,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.00,0:00:00.00,Hackadoll_Main,Crowd,0000,0000,0000,,Don't go!
+Dialogue: 0,0:00:00.00,0:00:00.00,Hackadoll_Main,Crowd,0000,0000,0000,,We'll miss you!
+Dialogue: 0,0:00:00.00,0:00:00.00,Hackadoll_Main,Crowd,0000,0000,0000,,Yuppy!
+Dialogue: 0,0:01:36.49,0:01:40.99,yuppi,Poster,0272,0001,0058,,{\an8}Yuppy
+Dialogue: 0,0:01:39.90,0:01:40.99,Hackadoll_Main,Takeuchi,0000,0000,0000,,They're here.
+Dialogue: 0,0:01:41.28,0:01:43.49,Hackadoll_Main,#1,0000,0000,0000,,Let's put in another good day's work, yo!
+Dialogue: 0,0:01:44.17,0:01:45.38,Hackadoll_Main,#3,0000,0000,0000,,She said "yo."
+Dialogue: 0,0:01:46.36,0:01:50.41,Hackadoll_Main,All,0000,0000,0000,,The Personal Entertainment AI \Nthat syncs up to you: HackaDolls!
+Dialogue: 0,0:01:51.17,0:01:53.03,Hackadoll_Main,#1,0000,0000,0000,,What do you wish of us today?
+Dialogue: 0,0:01:53.95,0:01:56.71,Hackadoll_Main,Takeuchi,0000,0000,0000,,I want you to get the perfect \Npresent for this girl.
+Dialogue: 0,0:01:57.06,0:01:57.98,Hackadoll_Main,#3,0000,0000,0000,,What a drag...
+Dialogue: 0,0:01:57.98,0:01:58.51,Hackadoll_Main,#2,0000,0000,0000,,Oh?
+Dialogue: 0,0:01:58.76,0:02:00.53,Hackadoll_Main,#1,0000,0000,0000,,Wow! She's pretty!
+Dialogue: 0,0:02:00.53,0:02:01.83,Hackadoll_Main,#1,0000,0000,0000,,Is she your girlfriend?
+Dialogue: 0,0:02:01.83,0:02:03.48,Hackadoll_Main,#3,0000,0000,0000,,Oh, he has a real life...
+Dialogue: 0,0:02:04.52,0:02:06.45,Hackadoll_Main,#3,0000,0000,0000,,Oh! It's Yuppy!
+Dialogue: 0,0:02:06.45,0:02:07.59,Hackadoll_Main,#2,0000,0000,0000,,Do you know her?
+Dialogue: 0,0:02:08.63,0:02:09.65,Hackadoll_Main,Takeuchi,0000,0000,0000,,She's a voice actress.
+Dialogue: 0,0:02:09.89,0:02:11.89,Hackadoll_Main,#1,0000,0000,0000,,Your girlfriend is a voice actress?!
+Dialogue: 0,0:02:12.84,0:02:14.69,Hackadoll_Main,Takeuchi,0000,0000,0000,,No. I'm just a fan.
+Dialogue: 0,0:02:15.12,0:02:16.03,Hackadoll_Main,,0000,0000,0000,,R-Right...
+Dialogue: 0,0:02:16.03,0:02:18.73,Hackadoll_Ep_Title,Text,0000,0000,0000,,{\fad(1,259)}Episode 11: "VA Police, Move Out!"
+Dialogue: 0,0:02:18.78,0:02:21.78,heartyup,Caligraphy,0414,0001,0035,,My heart is with Yuppy
+Dialogue: 0,0:02:23.39,0:02:26.76,Hackadoll_Main,Takeuchi,0000,0000,0000,,Yuppy is holding a birthday \Nsolo live concert next week.
+Dialogue: 0,0:02:24.41,0:02:27.60,Hackadoll_Main,#3,0000,0000,0000,,{\a6}Whoa! First editions! \NAnd even store exclusives!
+Dialogue: 0,0:02:26.76,0:02:29.42,Hackadoll_Main,#1,0000,0000,0000,,Oh! So you want to give her \Na present at the concert?
+Dialogue: 0,0:02:29.58,0:02:32.85,Hackadoll_Main,Takeuchi,0000,0000,0000,,Yes. That's why I want it to be perfect.
+Dialogue: 0,0:02:31.09,0:02:34.52,Hackadoll_Main,#3,0000,0000,0000,,{\a6}He only has the DVDs that \Ninclude Yuppy's character songs!
+Dialogue: 0,0:02:32.85,0:02:35.42,Hackadoll_Main,Takeuchi,0000,0000,0000,,I want you to research her \Nfavorite thing for me.
+Dialogue: 0,0:02:35.61,0:02:36.85,Hackadoll_Main,#1,0000,0000,0000,,Very well!
+Dialogue: 0,0:02:35.69,0:02:41.30,Hackadoll_Main,#3,0000,0000,0000,,{\a6}Oh! This is the T-shirt that sold out \Ninstantly at her concert! I'm so jealous!
+Dialogue: 0,0:02:37.61,0:02:41.30,Hackadoll_Main,#2,0000,0000,0000,,I can't wait to see the smile on her face \Nwhen you hand her the present.
+Dialogue: 0,0:02:41.66,0:02:43.80,Hackadoll_Main,Takeuchi,0000,0000,0000,,No, I'm not handing her the present directly.
+Dialogue: 0,0:02:41.87,0:02:43.80,Hackadoll_Main,#3,0000,0000,0000,,{\a6}Wow! He even has this!
+Dialogue: 0,0:02:43.80,0:02:45.42,Hackadoll_Main,#2,0000,0000,0000,,Oh, really?
+Dialogue: 0,0:02:45.42,0:02:46.68,Hackadoll_Main,#1,0000,0000,0000,,That's weird!
+Dialogue: 0,0:02:47.39,0:02:49.14,Hackadoll_Main,Takeuchi,0000,0000,0000,,You know nothing!
+Dialogue: 0,0:02:49.14,0:02:53.12,Hackadoll_Main,Takeuchi,0000,0000,0000,,There'll be a box for presents at the \Nconcert hall! I'm putting it in there!
+Dialogue: 0,0:02:53.12,0:02:56.44,Hackadoll_Main,Takeuchi,0000,0000,0000,,Sheesh! You really "Doesn't \NKnow Anything," do you?!
+Dialogue: 0,0:02:56.44,0:02:57.80,Hackadoll_Main,,0000,0000,0000,,R-Right...
+Dialogue: 0,0:02:57.80,0:02:59.25,Hackadoll_Main,Takeuchi,0000,0000,0000,,For crying out loud!
+Dialogue: 0,0:03:00.18,0:03:01.95,Hackadoll_Main,Takeuchi,0000,0000,0000,,We, her fans,
+Dialogue: 0,0:03:01.95,0:03:06.23,Hackadoll_Main,Takeuchi,0000,0000,0000,,risk our lives to choose the best \Npresent, for that very reason!
+Dialogue: 0,0:03:06.23,0:03:08.95,Hackadoll_Main,Takeuchi,0000,0000,0000,,We consider Yuppy's feelings!
+Dialogue: 0,0:03:08.95,0:03:11.33,Hackadoll_Main,Takeuchi,0000,0000,0000,,We think, think, think, think...
+Dialogue: 0,0:03:11.33,0:03:17.17,Hackadoll_Main,Takeuchi,0000,0000,0000,,Therefore, we risk our lives to figure out \Nwhat will make Yuppy the happiest!
+Dialogue: 0,0:03:17.17,0:03:18.92,Hackadoll_Main,#1,0000,0000,0000,,Uh, I see...
+Dialogue: 0,0:03:18.92,0:03:20.52,Hackadoll_Main,#3,0000,0000,0000,,There are CDs in here, too!
+Dialogue: 0,0:03:20.52,0:03:21.83,Hackadoll_Main,Takeuchi,0000,0000,0000,,Darn it!
+Dialogue: 0,0:03:22.11,0:03:24.13,disclaimer,Text,0001,0001,0050,,{\fad(258,260)}*It's just water. Takeuchi-kun is undergoing special training.
+Dialogue: 0,0:03:24.02,0:03:26.61,Hackadoll_Main,#3,0000,0000,0008,,Gurushan! He has Gurushan!
+Dialogue: 0,0:03:24.28,0:03:27.70,disclaimer,Text,0001,0001,0054,,{\an8\fs18\fad(250,125)}*Gurushan: short for Gurume Shampoo (Edible Shampoo)
+Dialogue: 0,0:03:25.95,0:03:27.66,disclaimer,Text,0000,0000,0070,,{\fs24}*It's just water.
+Dialogue: 0,0:03:27.58,0:03:28.44,Hackadoll_Main,#1,0000,0000,0008,,Oh, then...
+Dialogue: 0,0:03:28.76,0:03:31.42,Hackadoll_Main,#1,0000,0000,0000,,H-How about a brand-name bag?
+Dialogue: 0,0:03:31.42,0:03:33.31,Hackadoll_Main,#1,0000,0000,0000,,Girls love those.
+Dialogue: 0,0:03:34.19,0:03:36.21,Hackadoll_Main,Takeuchi,0000,0000,0000,,You really don't get it, do you?!
+Dialogue: 0,0:03:37.99,0:03:40.67,Hackadoll_Main,#3,0000,0000,0000,,Please forgive #1. She's the straight-laced type.
+Dialogue: 0,0:03:41.75,0:03:42.91,Hackadoll_Main,Takeuchi,0000,0000,0000,,Wait, are you...
+Dialogue: 0,0:03:43.59,0:03:46.66,Hackadoll_Main,#2,0000,0000,0000,,Oh, that's right. #3-chan loves voice actors.
+Dialogue: 0,0:03:47.11,0:03:49.00,Hackadoll_Main,Takeuchi,0000,0000,0000,,You're a Yuppy fan, too?
+Dialogue: 0,0:03:51.04,0:03:52.70,Hackadoll_Main,#3,0000,0000,0000,,{\a6}I'm a DD...
+Dialogue: 0,0:03:51.52,0:03:53.45,disclaimer,Text,0000,0000,0050,,{\fad(253,259)}*DD: Short for "dare demo daisuki" (loves everyone)
+Dialogue: 0,0:03:52.70,0:03:56.67,Hackadoll_Main,#3,0000,0000,0000,,{\a6}But as a fellow VA fan, I understand \Nhow you feel, Takeuchi!
+Dialogue: 0,0:03:56.67,0:03:57.42,Hackadoll_Main,Takeuchi,0000,0000,0000,,#3...
+Dialogue: 0,0:03:57.68,0:04:02.17,Hackadoll_Main,#3,0000,0000,0000,,You want us to find a gift that best \Nshows your support for her, right?
+Dialogue: 0,0:04:02.47,0:04:03.93,Hackadoll_Main,Takeuchi,0000,0000,0000,,Yes! That's right!
+Dialogue: 0,0:04:03.93,0:04:04.95,Hackadoll_Main,#3,0000,0000,0000,,Leave it to me.
+Dialogue: 0,0:04:04.95,0:04:09.35,Hackadoll_Main,#3,0000,0000,0000,,I'll find the perfect present \Nto show Yuppy your support!
+Dialogue: 0,0:04:09.76,0:04:13.33,Hackadoll_Main,#3,0000,0000,0000,,Okay! VA Police, move out!
+Dialogue: 0,0:04:13.33,0:04:14.94,Hackadoll_Main,Both,0000,0000,0000,,Y-Yeah...
+Dialogue: 0,0:04:16.42,0:04:19.43,VAPolice,Text,0000,0000,0000,,VA Police
+Dialogue: 0,0:04:22.84,0:04:24.31,vacreds,Text,0237,0000,0000,,{\an7}The Otokonoko Inspector\N{\fs26}HackaDoll #3
+Dialogue: 0,0:04:26.85,0:04:28.44,vacreds,Text,0236,0000,0000,,{\an7}The Fujoshi Inspector\N{\fs26}HackaDoll #2
+Dialogue: 0,0:04:30.97,0:04:32.44,vacreds,Text,0211,0000,0000,,{\an7}The Piece of Junk Inspector\N{\fs26}HackaDoll #1
+Dialogue: 0,0:04:57.52,0:05:02.03,Hackadoll_Main,Yuppy,0000,0000,0000,,Hey, guys! Thank you for \Ncoming out to see me today!
+Dialogue: 0,0:05:02.03,0:05:04.28,Hackadoll_Main,#3/Takeuchi,0000,0000,0000,,No! Thank {\i1}you{\i0}!
+Dialogue: 0,0:05:05.07,0:05:08.75,Hackadoll_Main,Yuppy,0000,0000,0000,,There's something important \NI need to tell you all today...
+Dialogue: 0,0:05:10.57,0:05:11.74,Hackadoll_Main,Yuppy,0000,0000,0000,,I...
+Dialogue: 0,0:05:12.38,0:05:14.29,Hackadoll_Main,Yuppy,0000,0000,0000,,I'm retiring from voice acting today!
+Dialogue: 0,0:05:17.05,0:05:22.46,Hackadoll_Main,Yuppy,0000,0000,0000,,I'm going to quit voice acting so I \Ncan travel the world and find myself.
+Dialogue: 0,0:05:22.46,0:05:23.18,Hackadoll_Main,Yuppy,0000,0000,0000,,But...
+Dialogue: 0,0:05:23.18,0:05:25.07,Hackadoll_Main,Takeuchi,0000,0000,0000,,Sh-She's retiring...
+Dialogue: 0,0:05:25.07,0:05:26.80,Hackadoll_Main,Takeuchi,0000,0000,0000,,But I've been her fan since day one...
+Dialogue: 0,0:05:27.12,0:05:28.35,Hackadoll_Main,#1,0000,0000,0000,,Takeuchi-san.
+Dialogue: 0,0:05:28.86,0:05:30.65,Hackadoll_Main,Takeuchi,0000,0000,0000,,If it had to end this way,
+Dialogue: 0,0:05:30.65,0:05:33.08,Hackadoll_Main,,0000,0000,0000,,I wish I'd been born as \Na blade of grass or a tree.
+Dialogue: 0,0:05:33.57,0:05:35.50,Hackadoll_Main,Takeuchi,0000,0000,0000,,I'm going to quit being her fan!
+Dialogue: 0,0:05:38.34,0:05:39.81,Hackadoll_Main,Takeuchi,0000,0000,0000,,Yuppy...
+Dialogue: 0,0:05:42.70,0:05:45.57,Hackadoll_Main,#3,0000,0000,0000,,You don't understand Yuppy, do you, Takeuchi?
+Dialogue: 0,0:05:45.57,0:05:47.07,Hackadoll_Main,Takeuchi,0000,0000,0000,,#3...
+Dialogue: 0,0:05:47.41,0:05:51.28,Hackadoll_Main,#3,0000,0000,0000,,It's hard for Yuppy to say \Ngoodbye to her fans, too.
+Dialogue: 0,0:05:51.51,0:05:55.25,Hackadoll_Main,#3,0000,0000,0000,,That's why you need to give her \Nthis present and cheer her up!
+Dialogue: 0,0:05:55.25,0:05:57.17,Hackadoll_Main,#3,0000,0000,0000,,That's what a true fan does!
+Dialogue: 0,0:05:58.14,0:06:00.08,Hackadoll_Main,#2,0000,0000,0000,,That's right. You mustn't give up.
+Dialogue: 0,0:06:00.08,0:06:01.63,Hackadoll_Main,#1,0000,0000,0000,,This is surely your one chance!
+Dialogue: 0,0:06:02.21,0:06:06.26,Hackadoll_Main,Yuppy,0000,0000,0000,,Now, here's my last song, \N"Doesn't Know Anything."
+Dialogue: 0,0:06:06.85,0:06:07.94,Hackadoll_Main,Takeuchi,0000,0000,0000,,Yuppy...
+Dialogue: 0,0:06:08.54,0:06:09.47,Hackadoll_Main,Takeuchi,0000,0000,0000,,Okay.
+Dialogue: 0,0:06:09.80,0:06:11.34,Hackadoll_Main,Takeuchi,0000,0000,0000,,I want to hand this to her!
+Dialogue: 0,0:06:11.34,0:06:13.14,Hackadoll_Main,Takeuchi,0000,0000,0000,,I want to give it to her personally!
+Dialogue: 0,0:06:13.14,0:06:14.99,Hackadoll_Main,#3,0000,0000,0000,,Okay! Let's go!
+Dialogue: 0,0:06:17.39,0:06:17.77,heartyup,Sign,0494,0001,0052,,Presents\NGo Here
+Dialogue: 0,0:06:17.39,0:06:17.77,heartyup,Sign,0301,0001,0160,,Yuppy\NPresent Box\N-4-
+Dialogue: 0,0:06:17.39,0:06:17.77,heartyup,Sign,0188,0001,0052,,{\an2}Yuppy\NPresent Box\N-3-
+Dialogue: 0,0:06:18.10,0:06:18.89,heartyup,Sign,0072,0001,0089,,{\b0\fs14}Staff only.\NDo not enter.
+Dialogue: 0,0:06:18.17,0:06:19.10,Hackadoll_Main,#3,0000,0000,0000,,She's over there!
+Dialogue: 0,0:06:19.90,0:06:21.40,Hackadoll_Main,#3,0000,0000,0000,,Out of the way!
+Dialogue: 0,0:06:24.28,0:06:25.47,Hackadoll_Main,#3,0000,0000,0000,,There's no end to them.
+Dialogue: 0,0:06:25.47,0:06:28.40,Hackadoll_Main,#3,0000,0000,0000,,Leave them to me, Takeuchi. You go ahead!
+Dialogue: 0,0:06:28.58,0:06:30.53,Hackadoll_Main,Takeuchi,0000,0000,0000,,#3... Okay!
+Dialogue: 0,0:06:34.12,0:06:37.54,Hackadoll_Main,Takeuchi,0000,0000,0000,,I won't let you guys stop my love for Yuppy!
+Dialogue: 0,0:06:41.93,0:06:42.88,Hackadoll_Italics,Takeuchi,0000,0000,0000,,My...
+Dialogue: 0,0:06:43.98,0:06:45.53,Hackadoll_Italics,Takeuchi,0000,0000,0000,,My love for Yuppy...
+Dialogue: 0,0:06:46.51,0:06:48.14,Hackadoll_Italics,Takeuchi,0000,0000,0000,,My love for Yuppy...
+Dialogue: 0,0:06:50.17,0:06:51.65,Hackadoll_Italics,Takeuchi,0000,0000,0000,,is much greater
+Dialogue: 0,0:06:53.50,0:06:54.69,Hackadoll_Italics,,0000,0000,0008,,than this!
+Dialogue: 0,0:06:53.89,0:06:55.39,disclaimer,Text,0001,0001,0050,,*It's just water. Takeuchi-kun is undergoing special training.
+Dialogue: 0,0:06:57.21,0:06:59.21,Hackadoll_Main,Takeuchi,0000,0000,0000,,Yuppy!
+Dialogue: 0,0:07:09.44,0:07:10.87,Hackadoll_Main,Yuppy,0000,0000,0000,,Thanks for all your support,
+Dialogue: 0,0:07:11.71,0:07:12.83,Hackadoll_Main,,0000,0000,0000,,Takeuchi-san.
+Dialogue: 0,0:07:18.70,0:07:20.59,Hackadoll_Main,#3,0000,0000,0000,,I'm so glad for you, Takeu—
+Dialogue: 0,0:07:22.27,0:07:24.50,Hackadoll_Main,#3,0000,0000,0000,,H-He's dead.

@@ -1,0 +1,178 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Hackadoll_Main,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Hackadoll_Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Hackadoll_Flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Hackadoll_Flashback_Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Hackadoll_Ep_Title,Open Sans Semibold,24,&H00FFFFFF,&H000000FF,&H004C8B34,&H00000000,1,1,0,0,100,100,0,0,1,2,0,9,13,67,73,1
+Style: fashioncenter,Open Sans Semibold,21,&H006B49B9,&H000000FF,&H00E7C6B5,&H00000000,1,0,0,0,100,100,0,0,1,4,0,2,13,13,13,1
+Style: shimaron,Open Sans Semibold,24,&H005249C3,&H000000FF,&H00CFA6DD,&H00000000,1,0,0,0,100,100,0,0,1,4,0,2,13,13,13,1
+Style: advance,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H009AFFB2,&H00000000,0,0,0,0,100,100,0,0,1,4,0,3,13,13,13,1
+Style: menu,Open Sans Semibold,18,&H00373639,&H000000FF,&H00C9C3BB,&H00000000,1,0,0,0,100,100,0,0,1,3,0,1,27,27,13,1
+Style: skytree,Open Sans Semibold,18,&H00FFFFFF,&H000000FF,&H007C7849,&H00D8FEE4,1,0,0,0,100,100,0,0,1,2,3,9,13,13,13,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:01:29.98,0:01:33.13,Hackadoll_Ep_Title,Text,0000,0000,0000,,{\fad(1,250)}Episode 8: "Kind of Main Heroine-ish"
+Dialogue: 0,0:01:38.80,0:01:40.47,Hackadoll_Main,Alien,0000,0000,0000,,{\a6}I'd better call for help...
+Dialogue: 0,0:01:42.89,0:01:43.39,Hackadoll_Main,Subs,0000,0000,0000,,{\a6}"Help"
+Dialogue: 0,0:01:43.39,0:01:43.64,Hackadoll_Main,Subs,0000,0000,0000,,{\a6}"Help"\N"Come right away"
+Dialogue: 0,0:01:43.64,0:01:45.11,Hackadoll_Main,Subs,0000,0000,0000,,{\a6}"Help"\N"Come right away"\N"Cute girl"
+Dialogue: 0,0:01:46.13,0:01:50.19,Hackadoll_Main,#1,0000,0000,0000,,The Personal Entertainment AI \Nthat syncs up to you: HackaDoll!
+Dialogue: 0,0:01:53.42,0:01:53.89,Hackadoll_Main,,0000,0000,0000,,{\a6}Ah!
+Dialogue: 0,0:01:53.89,0:01:55.01,Hackadoll_Main,#2,0000,0000,0000,,Oh, dear.
+Dialogue: 0,0:01:56.74,0:01:59.20,Hackadoll_Main,#3,0000,0000,0000,,This is done for.
+Dialogue: 0,0:01:59.82,0:02:02.33,Hackadoll_Main,Alien,0000,0000,0000,,{\a6}And I was trying to call for help...
+Dialogue: 0,0:02:02.33,0:02:03.61,Hackadoll_Main,#1,0000,0000,0000,,I'm sorry!
+Dialogue: 0,0:02:03.61,0:02:06.11,Hackadoll_Main,#1,0000,0000,0000,,Oh, but what an unusual outfit you're wearing!
+Dialogue: 0,0:02:06.11,0:02:07.79,Hackadoll_Main,#1,0000,0000,0000,,Are you a foreigner?
+Dialogue: 0,0:02:07.79,0:02:09.48,Hackadoll_Main,#1,0000,0000,0000,,Nice to meet you desu!
+Dialogue: 0,0:02:09.48,0:02:11.25,Hackadoll_Main,#1,0000,0000,0000,,I am HackaDoll!
+Dialogue: 0,0:02:11.67,0:02:14.26,Hackadoll_Main,Alien,0000,0000,0000,,{\a6}I don't care who you are, just please, \Ntake me someplace high!
+Dialogue: 0,0:02:14.28,0:02:15.51,Hackadoll_Main,#1,0000,0000,0000,,Um...
+Dialogue: 0,0:02:15.51,0:02:17.56,Hackadoll_Main,#1,0000,0000,0000,,I don't know what she's saying.
+Dialogue: 0,0:02:17.56,0:02:19.68,Hackadoll_Main,#2,0000,0000,0000,,I wonder what country she's from.
+Dialogue: 0,0:02:20.05,0:02:23.36,Hackadoll_Main,Alien,0000,0000,0000,,{\a6}That's right! My translating device was broken!
+Dialogue: 0,0:02:23.36,0:02:24.52,Hackadoll_Main,Alien,0000,0000,0000,,{\a6}Um...
+Dialogue: 0,0:02:24.81,0:02:26.27,Hackadoll_Main,Alien,0000,0000,0000,,{\a6}Me. High. Place.
+Dialogue: 0,0:02:26.27,0:02:28.78,Hackadoll_Main,Alien,0000,0000,0000,,{\a6}Take. Go. Please!
+Dialogue: 0,0:02:28.91,0:02:30.04,Hackadoll_Main,Alien,0000,0000,0000,,Please!
+Dialogue: 0,0:02:30.19,0:02:31.97,Hackadoll_Main,#3,0000,0000,0000,,What's she saying?
+Dialogue: 0,0:02:31.97,0:02:33.70,Hackadoll_Main,#1,0000,0000,0000,,I could make out "please."
+Dialogue: 0,0:02:33.70,0:02:35.09,Hackadoll_Main,#1,0000,0000,0000,,We might be able to communicate.
+Dialogue: 0,0:02:35.73,0:02:36.58,Hackadoll_Main,Alien,0000,0000,0000,,{\a6}High.
+Dialogue: 0,0:02:36.58,0:02:38.08,Hackadoll_Main,Alien,0000,0000,0000,,{\a6}Place. Go.
+Dialogue: 0,0:02:38.08,0:02:38.46,Hackadoll_Main,Alien,0000,0000,0000,,{\a6}My
+Dialogue: 0,0:02:38.46,0:02:39.21,Hackadoll_Main,Alien,0000,0000,0000,,{\a6}planet's
+Dialogue: 0,0:02:39.21,0:02:40.25,Hackadoll_Main,Alien,0000,0000,0000,,{\a6}mothership.
+Dialogue: 0,0:02:40.25,0:02:41.59,Hackadoll_Main,Alien,0000,0000,0000,,{\a6}I will call for help.
+Dialogue: 0,0:02:41.72,0:02:42.64,Hackadoll_Main,#1,0000,0000,0000,,Uh-huh...
+Dialogue: 0,0:02:42.64,0:02:46.72,Hackadoll_Main,#1,0000,0000,0000,,"I haven't had a bowel movement in a week, \Nso please give me an enema." Right?
+Dialogue: 0,0:02:46.72,0:02:47.76,Hackadoll_Main,#1,0000,0000,0000,,Very well!
+Dialogue: 0,0:02:48.37,0:02:49.59,Hackadoll_Main,Alien,0000,0000,0000,,{\a6}That's completely wrong!
+Dialogue: 0,0:02:49.59,0:02:51.25,Hackadoll_Main,#2,0000,0000,0000,,Looks like you were wrong.
+Dialogue: 0,0:02:51.25,0:02:54.56,Hackadoll_Main,#3,0000,0000,0000,,Since she's not from here, \Nmaybe she wants to go sightseeing?
+Dialogue: 0,0:02:54.56,0:02:55.84,Hackadoll_Main,#1,0000,0000,0000,,Oh! Good idea!
+Dialogue: 0,0:02:55.84,0:02:56.23,Hackadoll_Main,,0000,0000,0000,,{\a6}Huh?
+Dialogue: 0,0:02:56.42,0:02:57.74,Hackadoll_Main,#1,0000,0000,0000,,You can count on us!
+Dialogue: 0,0:02:57.74,0:03:00.24,Hackadoll_Main,#1,0000,0000,0000,,We'll help you make progress \Nwith your sightseeing!
+Dialogue: 0,0:03:00.24,0:03:01.99,Hackadoll_Main,#1,0000,0000,0000,,First, let's go shopping!
+Dialogue: 0,0:03:01.99,0:03:02.73,Hackadoll_Main,Alien,0000,0000,0000,,{\a6}Wah!
+Dialogue: 0,0:03:02.89,0:03:04.49,Hackadoll_Main,Alien,0000,0000,0000,,{\a6}They just don't understand me!
+Dialogue: 0,0:03:05.39,0:03:07.39,Hackadoll_Main,Alien,0000,0000,0000,,{\a6}Oh, what is this place?
+Dialogue: 0,0:03:07.49,0:03:10.75,fashioncenter,Sign,0001,0400,0042,,{\an8}Fashion Center
+Dialogue: 0,0:03:07.49,0:03:10.75,shimaron,Sign,0001,0124,0091,,{\an8}Shimaran
+Dialogue: 0,0:03:07.71,0:03:11.18,Hackadoll_Main,#1,0000,0000,0000,,Ta-da! The pinnacle of fashion: Shimaran!
+Dialogue: 0,0:03:11.70,0:03:13.16,Hackadoll_Main,#1,0000,0000,0000,,What do you think of this?
+Dialogue: 0,0:03:13.16,0:03:15.76,Hackadoll_Main,#1,0000,0000,0000,,It's both cute and tough. It's cu-tough!
+Dialogue: 0,0:03:16.57,0:03:17.50,Hackadoll_Main,#1,0000,0000,0000,,Huh?
+Dialogue: 0,0:03:17.50,0:03:18.97,Hackadoll_Main,#3,0000,0000,0000,,That's not surprising.
+Dialogue: 0,0:03:22.06,0:03:23.58,Hackadoll_Main,#2,0000,0000,0000,,Do you like those better?
+Dialogue: 0,0:03:25.20,0:03:26.64,Hackadoll_Main,#2,0000,0000,0000,,They are cute.
+Dialogue: 0,0:03:31.22,0:03:33.03,Hackadoll_Main,#3,0000,0000,0000,,Seems very heroine-ish.
+Dialogue: 0,0:03:33.03,0:03:35.80,Hackadoll_Main,#2,0000,0000,0000,,Then let's make ourselves main heroines, too.
+Dialogue: 0,0:03:35.80,0:03:36.64,Hackadoll_Main,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:03:42.93,0:03:45.90,Hackadoll_Main,Alien,0000,0000,0000,,{\a6}I need to contact the \Nmothership immediately!
+Dialogue: 0,0:03:46.28,0:03:49.65,Hackadoll_Main,#1,0000,0000,0000,,Now, let's all go to some trendy spot together!
+Dialogue: 0,0:03:50.09,0:03:51.40,Hackadoll_Main,#1,0000,0000,0045,,Where should we go?
+Dialogue: 0,0:03:50.43,0:03:53.53,Hackadoll_Main,Alien,0000,0000,0000,,{\a6}Argh! I don't have time for this!
+Dialogue: 0,0:03:51.40,0:03:53.53,Hackadoll_Main,#2,0000,0000,0045,,Yeah, good question...
+Dialogue: 0,0:03:55.06,0:03:55.53,Hackadoll_Main,Alien,0000,0000,0000,,{\a6}But...
+Dialogue: 0,0:03:55.54,0:03:57.53,Hackadoll_Main,Alien,0000,0000,0000,,{\a6}They don't seem like bad people...
+Dialogue: 0,0:03:56.10,0:03:57.70,Hackadoll_Main,#1,0000,0000,0045,,C'mon, let's go!
+Dialogue: 0,0:03:57.70,0:03:59.05,Hackadoll_Main,#3,0000,0000,0045,,Let's go, let's go.
+Dialogue: 0,0:03:59.57,0:04:01.91,Hackadoll_Main,Alien,0000,0000,0000,,{\a6}I could stay with them for just a bit...
+Dialogue: 0,0:04:08.95,0:04:10.14,advance,Purikura,0001,0071,0104,,{\an9}We'll advance you!
+Dialogue: 0,0:04:10.40,0:04:12.78,Hackadoll_Main,#1,0000,0000,0000,,Well, where shall we go next?
+Dialogue: 0,0:04:13.98,0:04:15.28,Hackadoll_Main,#3,0000,0000,0000,,I'm starving.
+Dialogue: 0,0:04:15.28,0:04:17.00,Hackadoll_Main,#2,0000,0000,0000,,Want to go to a trendy café?
+Dialogue: 0,0:04:17.26,0:04:18.52,Hackadoll_Main,#1,0000,0000,0000,,Leave it to us!
+Dialogue: 0,0:04:18.52,0:04:20.03,menu,Menu,0000,0000,0000,,Chashumen      Beansprout      Pork Bone          Salt           Soy Sauce           Miso\N{\c&HC9C3BB&}.                              {\c&H373639&}Ramen            Ramen           Ramen          Ramen             Ramen
+Dialogue: 0,0:04:18.52,0:04:20.03,Hackadoll_Italics,Male reporter,0000,0000,0000,,{\a6}Now for our next story.
+Dialogue: 0,0:04:20.49,0:04:25.49,Hackadoll_Italics,Male reporter,0000,0000,0000,,{\a6}Yesterday, at the International Armadillo \NLovers Society's convention in Tokyo,
+Dialogue: 0,0:04:20.89,0:04:21.91,Hackadoll_Main,#1,0000,0000,0000,,What do you think?
+Dialogue: 0,0:04:21.91,0:04:23.18,Hackadoll_Main,#1,0000,0000,0000,,Trendy, isn't it?
+Dialogue: 0,0:04:23.18,0:04:24.28,Hackadoll_Main,#2,0000,0000,0000,,Yes, indeed.
+Dialogue: 0,0:04:24.28,0:04:26.21,Hackadoll_Main,#1,0000,0000,0000,,Master! Four of the usual!
+Dialogue: 0,0:04:25.49,0:04:31.54,Hackadoll_Italics,,0000,0000,0000,,{\a6}about 500 armadillo enthusiasts from \Naround Japan had passionate discussions
+Dialogue: 0,0:04:26.21,0:04:26.95,Hackadoll_Main,Shop keep,0000,0000,0000,,You got it.
+Dialogue: 0,0:04:27.78,0:04:28.45,Hackadoll_Main,#2,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:28.75,0:04:30.37,Hackadoll_Main,#2,0000,0000,0000,,It looks surprisingly good.
+Dialogue: 0,0:04:30.53,0:04:32.16,Hackadoll_Main,#3,0000,0000,0000,,Let's dig in.
+Dialogue: 0,0:04:31.54,0:04:33.45,Hackadoll_Italics,Male reporter,0000,0000,0000,,{\a6}about armadillos in their rounded form.
+Dialogue: 0,0:04:34.00,0:04:36.92,Hackadoll_Italics,Male reporter,0000,0000,0000,,{\a6}The Armadillo Lovers Society \Nwas formed 25 years ago when...
+Dialogue: 0,0:04:36.94,0:04:38.07,Hackadoll_Italics,Alien,0000,0000,0000,,{\a6}This flavor!
+Dialogue: 0,0:04:39.19,0:04:40.79,Hackadoll_Italics,Alien,0000,0000,0000,,{\a6}These wavy noodles...
+Dialogue: 0,0:04:41.19,0:04:44.29,Hackadoll_Italics,Alien,0000,0000,0000,,{\a6}They hold the distinct flavor of wheat!
+Dialogue: 0,0:04:46.16,0:04:47.13,Hackadoll_Italics,Alien,0000,0000,0000,,{\a6}What is this?!
+Dialogue: 0,0:04:47.66,0:04:49.75,Hackadoll_Italics,Alien,0000,0000,0000,,{\a6}Of course it's delicious.
+Dialogue: 0,0:04:50.29,0:04:53.51,Hackadoll_Italics,Alien,0000,0000,0000,,{\a6}It seems to be meat, but it's \Nso tender, it melts in my mouth...
+Dialogue: 0,0:04:56.00,0:04:57.34,Hackadoll_Italics,Alien,0000,0000,0000,,{\a6}And this broth...
+Dialogue: 0,0:04:58.08,0:05:02.56,Hackadoll_Italics,Alien,0000,0000,0000,,{\a6}The soy sauce flavor isn't overpowering.\NIt's perfectly balanced...
+Dialogue: 0,0:05:03.88,0:05:05.85,Hackadoll_Main,Alien,0000,0000,0000,,{\a6}This aroma that fills my nostrils...
+Dialogue: 0,0:05:06.08,0:05:07.92,Hackadoll_Main,Shop keep,0000,0000,0000,,It's fermented dried bonito.
+Dialogue: 0,0:05:08.01,0:05:08.60,Hackadoll_Italics,Alien,0000,0000,0000,,{\a6}Amazing!
+Dialogue: 0,0:05:09.37,0:05:11.20,Hackadoll_Main,Alien,0000,0000,0000,,Pops! Seconds, please!
+Dialogue: 0,0:05:11.49,0:05:12.26,Hackadoll_Main,Shop keep,0000,0000,0000,,You got it.
+Dialogue: 0,0:05:12.26,0:05:13.30,Hackadoll_Italics,Female reporter,0000,0000,0000,,{\a6}Okay!
+Dialogue: 0,0:05:13.30,0:05:18.10,Hackadoll_Italics,Female reporter,0000,0000,0000,,{\a6}I am presently at the tallest broadcasting \Ntower in the world: Tokyo Skytree!
+Dialogue: 0,0:05:15.23,0:05:16.45,Hackadoll_Main,Alien,0000,0000,0045,,Oh! That place would work!
+Dialogue: 0,0:05:17.10,0:05:18.57,Hackadoll_Main,Alien,0000,0000,0045,,I can call for help from there!
+Dialogue: 0,0:05:18.10,0:05:22.34,Hackadoll_Italics,Female reporter,0000,0000,0000,,{\a6}The Skytree's height is 634 meters,\Na play on words with "Musashi."
+Dialogue: 0,0:05:18.58,0:05:22.34,skytree,Text,0001,0022,0094,,The world's tallest broadcasting tower!\NWhat scenery can one see from it?
+Dialogue: 0,0:05:19.00,0:05:20.90,Hackadoll_Main,#1,0000,0000,0000,,Do you want to go there?
+Dialogue: 0,0:05:20.90,0:05:21.62,Hackadoll_Main,Alien,0000,0000,0045,,Yes!
+Dialogue: 0,0:05:23.24,0:05:25.31,Hackadoll_Main,#1,0000,0000,0000,,We're so high up!
+Dialogue: 0,0:05:25.31,0:05:27.15,Hackadoll_Main,#2,0000,0000,0000,,It's kind of romantic.
+Dialogue: 0,0:05:27.15,0:05:28.20,Hackadoll_Main,#3,0000,0000,0000,,Wow...
+Dialogue: 0,0:05:28.20,0:05:30.09,Hackadoll_Main,Alien,0000,0000,0000,,The people look like specks of dust.
+Dialogue: 0,0:05:30.34,0:05:32.68,Hackadoll_Main,#4,0000,0000,0000,,The tour ends here!
+Dialogue: 0,0:05:33.51,0:05:36.31,Hackadoll_Main,#4,0000,0000,0000,,Hand her over, now!
+Dialogue: 0,0:05:36.31,0:05:37.33,Hackadoll_Main,#1,0000,0000,0000,,#4-chan?
+Dialogue: 0,0:05:37.33,0:05:38.73,Hackadoll_Main,#2,0000,0000,0000,,What has this girl done?
+Dialogue: 0,0:05:38.73,0:05:42.57,Hackadoll_Main,#4,0000,0000,0000,,She is an alien that we at \NNASSA have been tracking.
+Dialogue: 0,0:05:42.57,0:05:44.56,Hackadoll_Main,#4,0000,0000,0000,,"Hand her over peacefully,"
+Dialogue: 0,0:05:44.56,0:05:46.24,Hackadoll_Main,#4,0000,0000,0000,,is what I'd like to say, but...
+Dialogue: 0,0:05:47.19,0:05:49.47,Hackadoll_Main,#4,0000,0000,0000,,I'll give you a three minute headstart.
+Dialogue: 0,0:05:49.47,0:05:50.36,Hackadoll_Main,#4,0000,0000,0000,,Nailed it.
+Dialogue: 0,0:05:50.36,0:05:52.70,Hackadoll_Main,#4,0000,0000,0000,,I always wanted to say that at least once!
+Dialogue: 0,0:05:54.87,0:05:57.65,Hackadoll_Main,#4,0000,0000,0000,,After them! After them!
+Dialogue: 0,0:06:07.18,0:06:08.50,Hackadoll_Main,#1,0000,0000,0000,,A UFO?!
+Dialogue: 0,0:06:09.56,0:06:11.43,Hackadoll_Main,Alien,0000,0000,0000,,Thank you for helping me.
+Dialogue: 0,0:06:13.65,0:06:16.38,Hackadoll_Main,Alien,0000,0000,0000,,I am Princess Kirara of the planet Dena.
+Dialogue: 0,0:06:16.96,0:06:18.67,Hackadoll_Main,Alien,0000,0000,0000,,While I was on a tour of Earth,
+Dialogue: 0,0:06:18.67,0:06:20.52,Hackadoll_Main,Alien,0000,0000,0000,,I got separated from my tour group.
+Dialogue: 0,0:06:21.53,0:06:22.80,Hackadoll_Main,Alien,0000,0000,0000,,Miss HackaDoll...
+Dialogue: 0,0:06:25.39,0:06:27.95,Hackadoll_Main,Alien,0000,0000,0000,,This is a sign of good will on my planet.
+Dialogue: 0,0:06:29.67,0:06:31.60,Hackadoll_Main,Alien,0000,0000,0000,,I wish I could stay with you longer,
+Dialogue: 0,0:06:31.60,0:06:33.27,Hackadoll_Main,Alien,0000,0000,0000,,but I must go home now.
+Dialogue: 0,0:06:33.27,0:06:35.20,Hackadoll_Main,#1,0000,0000,0000,,You're going home?
+Dialogue: 0,0:06:35.72,0:06:38.72,Hackadoll_Main,Alien,0000,0000,0000,,Yes. But I will never forget
+Dialogue: 0,0:06:38.72,0:06:40.53,Hackadoll_Main,Alien,0000,0000,0000,,my time with all of you.
+Dialogue: 0,0:06:42.56,0:06:43.77,Hackadoll_Main,Alien,0000,0000,0000,,Thank you.
+Dialogue: 0,0:06:44.87,0:06:46.01,Hackadoll_Main,#1,0000,0000,0000,,Princess...
+Dialogue: 0,0:06:46.91,0:06:48.91,Hackadoll_Main,Alien,0000,0000,0000,,Well, this is goodbye!
+Dialogue: 0,0:06:50.90,0:06:51.69,Hackadoll_Main,#2,0000,0000,0000,,Oh!
+Dialogue: 0,0:06:51.69,0:06:52.72,Hackadoll_Main,#3,0000,0000,0000,,She's an animal!
+Dialogue: 0,0:06:53.62,0:06:55.77,Hackadoll_Main,Alien,0000,0000,0000,,I'm sorry for deceiving you.
+Dialogue: 0,0:06:56.47,0:06:59.03,Hackadoll_Main,Alien,0000,0000,0000,,This is my true form.
+Dialogue: 0,0:07:00.09,0:07:01.26,Hackadoll_Main,#1,0000,0000,0000,,Princess...
+Dialogue: 0,0:07:01.81,0:07:04.11,Hackadoll_Main,,0000,0000,0000,,Even if you are some kind of {\i1}ham-star{\i0}...
+Dialogue: 0,0:07:04.86,0:07:07.23,Hackadoll_Main,#1,0000,0000,0000,,We're still BFFs!
+Dialogue: 0,0:07:09.68,0:07:10.82,Hackadoll_Main,Alien,0000,0000,0000,,Thank you.
+Dialogue: 0,0:07:12.48,0:07:13.77,Hackadoll_Main,Alien,0000,0000,0000,,HackaDolls...
+Dialogue: 0,0:07:14.50,0:07:15.67,Hackadoll_Main,Alien,0000,0000,0000,,Farewell.
+Dialogue: 0,0:07:17.06,0:07:19.12,Hackadoll_Main,#4,0000,0000,0000,,Wait, damn it!
+Dialogue: 0,0:07:19.12,0:07:20.50,Hackadoll_Main,#4,0000,0000,0000,,Wait— What?
+Dialogue: 0,0:07:20.50,0:07:21.64,Hackadoll_Main,#4,0000,0000,0000,,What?!
+Dialogue: 0,0:07:21.64,0:07:24.03,Hackadoll_Main,#4,0000,0000,0000,,Farewell!

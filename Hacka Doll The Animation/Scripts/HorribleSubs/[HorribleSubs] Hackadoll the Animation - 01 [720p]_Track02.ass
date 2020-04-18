@@ -1,0 +1,207 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Hackadoll_Main,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Hackadoll_Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Hackadoll_Flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Hackadoll_Flashback_Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Hackadoll_Ep_Title,Open Sans Semibold,24,&H00FFFFFF,&H000000FF,&H007DBB5E,&H00000000,1,1,0,0,100,100,0,0,1,2,0,9,13,67,73,1
+Style: hackadoll#,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H003F3E40,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,13,13,60,1
+Style: hackadoll#0,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H003F3E40,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,13,13,320,1
+Style: 9mil,Open Sans Semibold,18,&H00FFFFFF,&H000000FF,&H006E694F,&H00000000,0,0,0,0,100,100,0,0,1,4,0,4,360,13,13,1
+Style: sync_03:29,Open Sans Semibold,27,&H00382D30,&H000000FF,&H00F7FAF7,&H00000000,0,0,0,0,100,100,0,0,1,4,0,7,53,13,80,1
+Style: Open,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00BEAE1A,&H00000000,1,0,0,0,100,100,0,0,1,4,0,8,13,40,207,1
+Style: description_03:29,Open Sans Semibold,18,&H004F4D4E,&H000000FF,&H00F3F3F3,&H00000000,0,0,0,0,100,100,0,0,1,3,0,1,251,13,133,1
+Style: description2_03:51,Open Sans Semibold,18,&H004F4D4E,&H000000FF,&H00F3F3F3,&H00000000,0,0,0,0,100,100,0,0,1,3,0,7,67,13,27,1
+Style: check,Open Sans Semibold,18,&H009C4AE2,&H000000FF,&H00FDFBF5,&H00000000,1,0,0,0,100,100,0,0,1,4,0,1,200,13,107,1
+Style: checkrightnow,Open Sans Semibold,18,&H00FFFFFF,&H000000FF,&H009629E7,&H00000000,1,0,0,0,100,100,0,0,1,4,0,3,13,107,173,1
+Style: quecards,Open Sans Semibold,24,&H00262528,&H000000FF,&H00F5F5F5,&H00000000,1,0,0,0,100,100,0,0,1,4,0,7,53,13,27,1
+Style: manga_04:29,Open Sans Semibold,27,&H0059344F,&H000000FF,&H00F7F4F5,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,13,13,27,1
+Style: hitorijime,Open Sans Semibold,27,&H00FFFFFF,&H000000FF,&H00AD69DC,&H00000000,1,0,0,0,100,100,0,0,1,4,0,8,13,13,27,1
+Style: grrr,Open Sans Semibold,30,&H006CF0E8,&H000000FF,&H00588E96,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,13,13,27,1
+Style: oden,Open Sans Semibold,27,&H00233093,&H000000FF,&H003F6A9D,&H00000000,1,0,0,0,100,100,0,0,1,4,0,5,13,13,13,1
+Style: okamuippon,Open Sans Semibold,30,&H00171717,&H000000FF,&H00F9F9F9,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,13,13,27,1
+Style: generalscore,Open Sans Semibold,36,&H00ABC73D,&H000000FF,&H00EDFBD8,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,440,13,93,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.00,0:00:00.00,Hackadoll_Main,1,0000,0000,0000,,Ouch!
+Dialogue: 0,0:00:25.17,0:00:26.97,Hackadoll_Main,0,0000,0000,0000,,And yet...
+Dialogue: 0,0:01:59.01,0:02:00.62,Hackadoll_Main,0,0000,0000,0000,,{\a6}HackaDoll #1!
+Dialogue: 0,0:01:59.03,0:02:00.18,hackadoll#,Text,0000,0000,0000,,HackaDoll #1
+Dialogue: 0,0:02:00.18,0:02:01.50,hackadoll#,Text,0000,0000,0000,,HackaDoll #2
+Dialogue: 0,0:02:00.62,0:02:01.50,Hackadoll_Main,0,0000,0000,0000,,{\a6}#2!
+Dialogue: 0,0:02:01.50,0:02:02.51,hackadoll#,Text,0000,0000,0000,,HackaDoll #3
+Dialogue: 0,0:02:01.50,0:02:02.51,Hackadoll_Main,0,0000,0000,0000,,{\a6}#3!
+Dialogue: 0,0:02:02.51,0:02:04.52,hackadoll#0,Text,0000,0000,0000,,{\fad(1,271)}HackaDoll #0
+Dialogue: 0,0:02:02.51,0:02:06.25,Hackadoll_Ep_Title,Green text,0000,0000,0000,,{\fad(1,251)}Episode 1: "Personal Entertainment AI! HackaDoll!"
+Dialogue: 0,0:02:02.76,0:02:06.27,Hackadoll_Main,0,0000,0000,0000,,You three were created to be \NPersonal Entertainment AI.
+Dialogue: 0,0:02:06.27,0:02:08.60,Hackadoll_Main,0,0000,0000,0000,,Our previously dispatched sisters
+Dialogue: 0,0:02:06.50,0:02:07.66,9mil,Text,0000,0000,0000,,HackaDoll production\N{\b1}9 million produced!\N{\b0}Downloaded around the clock!
+Dialogue: 0,0:02:08.60,0:02:12.03,Hackadoll_Main,,0000,0000,0000,,have been producing great results \Nfor their respective masters.
+Dialogue: 0,0:02:12.64,0:02:14.67,Hackadoll_Main,0,0000,0000,0000,,And yet, {\i1}you{\i0}...
+Dialogue: 0,0:02:15.80,0:02:19.22,Hackadoll_Main,0,0000,0000,0000,,Since you're later models, \Nyou do look like them,
+Dialogue: 0,0:02:19.22,0:02:21.75,Hackadoll_Main,0,0000,0000,0000,,but it seems there was a \Ndrop in quality, because...
+Dialogue: 0,0:02:21.75,0:02:23.20,Hackadoll_Main,0,0000,0000,0000,,To put it bluntly,
+Dialogue: 0,0:02:23.20,0:02:24.15,Hackadoll_Main,0,0000,0000,0000,,you're junk.
+Dialogue: 0,0:02:24.97,0:02:29.34,Hackadoll_Main,0,0000,0000,0000,,Keep this up, and you can forget \Nabout Personal Entertainment AI.
+Dialogue: 0,0:02:29.34,0:02:30.71,Hackadoll_Main,0,0000,0000,0000,,You'll be in the scrap heap.
+Dialogue: 0,0:02:30.71,0:02:33.21,Hackadoll_Main,1,0000,0000,0000,,What? No way!
+Dialogue: 0,0:02:31.56,0:02:33.21,Hackadoll_Main,2,0000,0000,0000,,Oh, dear...
+Dialogue: 0,0:02:33.21,0:02:35.99,Hackadoll_Main,0,0000,0000,0000,,But there must be something \Nthat even you three can do.
+Dialogue: 0,0:02:36.62,0:02:40.17,Hackadoll_Main,0,0000,0000,0000,,Now that you've been created as HackaDolls, \Nit's time you earned your keep.
+Dialogue: 0,0:02:40.17,0:02:42.09,Hackadoll_Main,1,0000,0000,0000,,Yippee! I'm making my debut!
+Dialogue: 0,0:02:41.70,0:02:42.99,Hackadoll_Main,2,0000,0000,0000,,Now, now...
+Dialogue: 0,0:02:41.70,0:02:43.61,Hackadoll_Main,3,0000,0000,0000,,{\a6}Huh? What are we supposed to do?
+Dialogue: 0,0:02:43.61,0:02:45.52,Hackadoll_Main,0,0000,0000,0000,,You three will be sent down to Earth,
+Dialogue: 0,0:02:45.52,0:02:49.23,Hackadoll_Main,0,0000,0000,0000,,where you will put your bodies on\Nthe line to help humanity advance.
+Dialogue: 0,0:02:49.72,0:02:51.09,Hackadoll_Main,2,0000,0000,0000,,Our bodies?
+Dialogue: 0,0:02:51.09,0:02:52.07,Hackadoll_Main,1,0000,0000,0000,,I'll do it!
+Dialogue: 0,0:02:52.07,0:02:55.01,Hackadoll_Main,1,0000,0000,0000,,I'll work hard and become a proper HackaDoll!
+Dialogue: 0,0:02:55.01,0:02:57.86,Hackadoll_Main,2,0000,0000,0000,,Wh-What do we have to do, specifically?
+Dialogue: 0,0:02:57.86,0:02:59.85,Hackadoll_Main,0,0000,0000,0000,,Anything goes.
+Dialogue: 0,0:02:59.85,0:03:01.72,Hackadoll_Main,0,0000,0000,0000,,As long as it isn't morally offensive,
+Dialogue: 0,0:03:01.72,0:03:04.38,Hackadoll_Main,0,0000,0000,0000,,you will do any task, great or small.
+Dialogue: 0,0:03:04.38,0:03:05.67,Hackadoll_Main,3,0000,0000,0000,,Any task?
+Dialogue: 0,0:03:06.89,0:03:08.15,Hackadoll_Main,0,0000,0000,0000,,That's your cue.
+Dialogue: 0,0:03:09.45,0:03:10.87,Hackadoll_Main,0,0000,0000,0000,,Go forth, HackaDolls!
+Dialogue: 0,0:03:10.87,0:03:13.13,Hackadoll_Main,0,0000,0000,0000,,Go advance humanity!
+Dialogue: 0,0:03:13.88,0:03:17.03,Hackadoll_Main,1,0000,0000,0000,,Yes! I shall go forth and advance them!
+Dialogue: 0,0:03:17.85,0:03:18.64,Hackadoll_Main,2,0000,0000,0000,,Good luck!
+Dialogue: 0,0:03:18.64,0:03:19.93,Hackadoll_Main,3,0000,0000,0000,,Fight on.
+Dialogue: 0,0:03:19.93,0:03:21.19,Hackadoll_Main,0,0000,0000,0000,,That includes you two!
+Dialogue: 0,0:03:21.19,0:03:22.38,Hackadoll_Main,3,0000,0000,0000,,Rats.
+Dialogue: 0,0:03:21.19,0:03:22.38,Hackadoll_Main,2,0000,0000,0000,,Should've known!
+Dialogue: 0,0:03:23.32,0:03:26.43,Hackadoll_Main,Ayame,0000,0000,0000,,Personal Entertainment... Whoa.
+Dialogue: 0,0:03:26.43,0:03:28.38,Hackadoll_Main,Ayame,0000,0000,0000,,So this is a "HackaDoll"?
+Dialogue: 0,0:03:28.89,0:03:31.03,Hackadoll_Main,Ayame,0000,0000,0000,,Oh. Looks like it's installed.
+Dialogue: 0,0:03:29.66,0:03:32.67,sync_03:29,Screen,0000,0000,0000,,HackaDoll: Syncing to you.\NNews App
+Dialogue: 0,0:03:29.66,0:03:32.67,Open,Blue tab,0000,0000,0000,,Open
+Dialogue: 0,0:03:29.66,0:03:32.67,description_03:29,Bottom text,0000,0000,0000,,Introducing a news app that syncs up \Nto you! News on anime, gaming, manga...
+Dialogue: 0,0:03:33.71,0:03:37.27,Hackadoll_Main,123,0000,0000,0000,,The Personal Entertainment \NAI that syncs up to you...
+Dialogue: 0,0:03:38.05,0:03:39.53,Hackadoll_Main,123,0000,0000,0000,,HackaDolls!
+Dialogue: 0,0:03:42.49,0:03:43.28,Hackadoll_Main,Ayame,0000,0000,0000,,Huh?
+Dialogue: 0,0:03:43.28,0:03:44.47,Hackadoll_Main,1,0000,0000,0000,,Nice to meet you!
+Dialogue: 0,0:03:44.47,0:03:46.07,Hackadoll_Main,1,0000,0000,0000,,I am HackaDoll #1!
+Dialogue: 0,0:03:46.07,0:03:47.14,Hackadoll_Main,1,0000,0000,0000,,Glad to be of service!
+Dialogue: 0,0:03:47.14,0:03:48.34,Hackadoll_Main,2,0000,0000,0000,,I'm #2.
+Dialogue: 0,0:03:48.34,0:03:49.20,Hackadoll_Main,3,0000,0000,0000,,#3.
+Dialogue: 0,0:03:49.20,0:03:49.88,Hackadoll_Main,,0000,0000,0000,,So...
+Dialogue: 0,0:03:49.88,0:03:51.05,Hackadoll_Main,Ayame,0000,0000,0000,,Yes?
+Dialogue: 0,0:03:51.05,0:03:51.99,Hackadoll_Main,Ayame,0000,0000,0000,,Wait, huh?
+Dialogue: 0,0:03:51.56,0:03:53.29,description2_03:51,Left text,0000,0000,0000,,Introducing a news app that syncs up to you!\NNews on anime, gaming, manga, voice actors, \Nlight novels, tokusatsu... We bring you the\Nnews you care about most! With HackaDolls,\Nyour life experience will advance!
+Dialogue: 0,0:03:51.56,0:03:53.29,check,Turquoise banner,0000,0000,0000,,Check out all the \N{\c&HB5C960&}latest {\c&H9C4AE2&}anime news!\N\N{\c&H786FD7&}We'll help you advance in anything!
+Dialogue: 0,0:03:51.56,0:03:53.29,checkrightnow,Pink bubble,0000,0000,0000,,Check now!
+Dialogue: 0,0:03:51.99,0:03:53.29,Hackadoll_Main,Ayame,0000,0000,0000,,You just pop out like that?
+Dialogue: 0,0:03:53.62,0:03:55.54,Hackadoll_Main,1,0000,0000,0000,,Now, without further ado...
+Dialogue: 0,0:03:55.54,0:03:57.66,Hackadoll_Main,1,0000,0000,0000,,Wait, what were we supposed to do, again?
+Dialogue: 0,0:03:59.18,0:04:00.13,quecards,Paper,0000,0000,0000,,How to Be a HackaDoll
+Dialogue: 0,0:04:00.17,0:04:04.53,quecards,Paper,0000,0000,0000,,1: Perform a component analysis. \NA component analysis is...
+Dialogue: 0,0:04:04.68,0:04:05.55,Hackadoll_Main,1,0000,0000,0000,,Oh, that's right!
+Dialogue: 0,0:04:05.89,0:04:09.31,Hackadoll_Main,1,0000,0000,0000,,Component analysis!
+Dialogue: 0,0:04:08.36,0:04:09.31,Hackadoll_Main,Ayame,0000,0000,0000,,Ah! Wait!
+Dialogue: 0,0:04:09.78,0:04:12.50,Hackadoll_Main,Ayame,0000,0000,0000,,Too bright! What's going on?!
+Dialogue: 0,0:04:10.04,0:04:14.18,quecards,Sign,0000,0000,0000,,{\fs14}A component analysis is\Na HackaDoll skill that determines\Nher master's likes instantaneously.
+Dialogue: 0,0:04:10.34,0:04:11.36,Hackadoll_Main,3,0000,0000,0000,,I will explain.
+Dialogue: 0,0:04:11.36,0:04:13.03,Hackadoll_Main,3,0000,0000,0000,,A component analysis is...
+Dialogue: 0,0:04:12.50,0:04:13.87,Hackadoll_Main,Ayame,0000,0000,0000,,M-My eyes...
+Dialogue: 0,0:04:13.87,0:04:15.40,Hackadoll_Main,3,0000,0000,0000,,Someone else read it.
+Dialogue: 0,0:04:15.19,0:04:16.54,Hackadoll_Main,Ayame,0000,0000,0000,,{\a6}How long does this last?!
+Dialogue: 0,0:04:15.84,0:04:17.65,Hackadoll_Main,2,0000,0000,0000,,A-A component analysis is
+Dialogue: 0,0:04:16.54,0:04:19.90,Hackadoll_Main,Ayame,0000,0000,0000,,{\a6}Too long! This is too long!
+Dialogue: 0,0:04:17.65,0:04:21.36,Hackadoll_Main,2,0000,0000,0000,,a HackaDoll skill that determines\Nher master's likes instantaneously.
+Dialogue: 0,0:04:21.77,0:04:22.70,Hackadoll_Main,1,0000,0000,0000,,Done!
+Dialogue: 0,0:04:22.70,0:04:26.93,Hackadoll_Main,1,0000,0000,0000,,I'll recommend all kinds of things \Nyou might like, based on this!
+Dialogue: 0,0:04:26.93,0:04:27.98,Hackadoll_Main,Ayame,0000,0000,0000,,Wh-What are you saying?
+Dialogue: 0,0:04:27.32,0:04:28.78,Hackadoll_Main,1,0000,0000,0000,,Let's see...
+Dialogue: 0,0:04:27.98,0:04:29.70,Hackadoll_Main,Ayame,0000,0000,0000,,Are you guys insane?
+Dialogue: 0,0:04:29.70,0:04:30.49,Hackadoll_Main,Ayame,0000,0000,0000,,Hey! Don't just...
+Dialogue: 0,0:04:29.72,0:04:31.69,manga_04:29,Manga,0000,0000,0000,,Saiyuki {\c&H080703&}Reload Blast
+Dialogue: 0,0:04:30.49,0:04:32.40,Hackadoll_Main,1,0000,0000,0000,,If you like this,
+Dialogue: 0,0:04:32.40,0:04:33.83,Hackadoll_Main,1,0000,0000,0000,,then you're sure to like this, too!
+Dialogue: 0,0:04:32.56,0:04:33.83,hitorijime,Manga,0000,0000,0000,,Hitorijime\NBoyfriend
+Dialogue: 0,0:04:34.22,0:04:36.10,Hackadoll_Main,,0000,0000,0000,,Huh?! Uh, that's not really...
+Dialogue: 0,0:04:34.95,0:04:37.01,Hackadoll_Main,2,0000,0000,0000,,And if you have these clothes...
+Dialogue: 0,0:04:37.96,0:04:39.75,Hackadoll_Main,2,0000,0000,0000,,Then this will look great on you!
+Dialogue: 0,0:04:40.11,0:04:41.66,Hackadoll_Main,Ayame,0000,0000,0000,,What is this?!
+Dialogue: 0,0:04:42.26,0:04:43.59,Hackadoll_Main,2,0000,0000,0000,,I tried it on you.
+Dialogue: 0,0:04:45.03,0:04:46.17,Hackadoll_Main,Ayame,0000,0000,0000,,Stop it!
+Dialogue: 0,0:04:46.17,0:04:47.64,Hackadoll_Main,Ayame,0000,0000,0000,,Don't take my picture!
+Dialogue: 0,0:04:47.64,0:04:51.26,Hackadoll_Main,1,0000,0000,0000,,Recommending things that would \Nsuit you perfectly, just like these,
+Dialogue: 0,0:04:51.26,0:04:53.19,Hackadoll_Main,1,0000,0000,0000,,is what we HackaDolls d— Ow!
+Dialogue: 0,0:04:53.81,0:04:55.10,Hackadoll_Main,Ayame,0000,0000,0000,,Wait! Not that!
+Dialogue: 0,0:04:55.35,0:04:56.70,Hackadoll_Main,1,0000,0000,0000,,What is this?
+Dialogue: 0,0:04:57.73,0:04:59.61,Hackadoll_Main,1,0000,0000,0000,,Th-This is...
+Dialogue: 0,0:04:59.61,0:05:03.61,Hackadoll_Main,1,0000,0000,0000,,So my recommendations were spot-on after all!
+Dialogue: 0,0:05:04.55,0:05:06.62,Hackadoll_Main,Ayame,0000,0000,0000,,Why are these people even here?
+Dialogue: 0,0:05:06.62,0:05:09.98,Hackadoll_Main,1,0000,0000,0000,,We came here to advance you!
+Dialogue: 0,0:05:09.98,0:05:11.18,Hackadoll_Main,Ayame,0000,0000,0000,,How is this "advancing" me?
+Dialogue: 0,0:05:11.18,0:05:13.62,Hackadoll_Main,2,0000,0000,0000,,For starters, why not enter this in Comiket?
+Dialogue: 0,0:05:13.62,0:05:14.66,Hackadoll_Main,Ayame,0000,0000,0000,,Absolutely not!
+Dialogue: 0,0:05:14.66,0:05:16.91,Hackadoll_Main,Ayame,0000,0000,0000,,Where did you even get that idea?! \NYou're not making sense!
+Dialogue: 0,0:05:16.91,0:05:18.75,Hackadoll_Main,3,0000,0000,0000,,It's obvious you like it.
+Dialogue: 0,0:05:18.75,0:05:20.48,Hackadoll_Main,Ayame,0000,0000,0000,,Well, yeah, I do like it...
+Dialogue: 0,0:05:20.48,0:05:22.11,Hackadoll_Main,Ayame,0000,0000,0000,,But I suck at drawing.
+Dialogue: 0,0:05:22.11,0:05:25.34,Hackadoll_Main,Ayame,0000,0000,0000,,I'm just a bandwagoner. Other people \Ndraw much more intense stuff...
+Dialogue: 0,0:05:23.64,0:05:25.34,Hackadoll_Main,1,0000,0000,0000,,{\a6}But what about...
+Dialogue: 0,0:05:25.34,0:05:27.17,Hackadoll_Main,1,0000,0000,0000,,What about the promise you made that day?
+Dialogue: 0,0:05:27.17,0:05:28.59,Hackadoll_Main,,0000,0000,0000,,Was that a lie?
+Dialogue: 0,0:05:31.03,0:05:33.96,Hackadoll_Flashback,Ayame,0000,0000,0000,,I don't think I can do it just yet.
+Dialogue: 0,0:05:35.12,0:05:37.77,Hackadoll_Flashback,Ayame,0000,0000,0000,,But I swear I'll go to Comiket someday.
+Dialogue: 0,0:05:37.77,0:05:40.48,Hackadoll_Flashback,Ayame,0000,0000,0000,,This is all I've got, after all!
+Dialogue: 0,0:05:40.98,0:05:42.22,Hackadoll_Flashback,1,0000,0000,0000,,Good luck.
+Dialogue: 0,0:05:42.22,0:05:43.40,Hackadoll_Flashback,2,0000,0000,0000,,Good luck!
+Dialogue: 0,0:05:43.40,0:05:44.49,Hackadoll_Flashback,3,0000,0000,0000,,Let's promise.
+Dialogue: 0,0:05:50.87,0:05:52.40,Hackadoll_Main,1,0000,0000,0000,,What about your promise?
+Dialogue: 0,0:05:52.40,0:05:53.62,Hackadoll_Main,Ayame,0000,0000,0000,,I didn't promise that!
+Dialogue: 0,0:05:54.75,0:05:57.80,Hackadoll_Main,Ayame,0000,0000,0000,,Seriously... What {\i1}are{\i0} you people?
+Dialogue: 0,0:05:57.80,0:05:59.49,Hackadoll_Main,1,0000,0000,0000,,We came here to advance you!
+Dialogue: 0,0:05:59.49,0:06:01.07,Hackadoll_Main,1,0000,0000,0000,,Were we useful to you?
+Dialogue: 0,0:06:01.07,0:06:02.29,Hackadoll_Main,Ayame,0000,0000,0000,,Not in the least!
+Dialogue: 0,0:06:02.29,0:06:04.35,Hackadoll_Main,1,0000,0000,0000,,No! Don't say that!
+Dialogue: 0,0:06:04.35,0:06:08.39,Hackadoll_Main,1,0000,0000,0000,,At the rate we're going, we'll never \Nbecome full-fledged HackaDolls!
+Dialogue: 0,0:06:08.39,0:06:10.52,Hackadoll_Main,Ayame,0000,0000,0000,,You're not even full-fledged yet?!
+Dialogue: 0,0:06:10.52,0:06:12.09,Hackadoll_Main,2,0000,0000,0000,,Please start advancing!
+Dialogue: 0,0:06:12.66,0:06:14.09,grrr,Text,0000,0000,0000,,Rumble
+Dialogue: 0,0:06:16.00,0:06:18.97,oden,Sign,0000,0000,0000,,All oden items are 70 yen
+Dialogue: 0,0:06:16.26,0:06:17.86,Hackadoll_Main,Voice,0000,0000,0000,,Welc'me!
+Dialogue: 0,0:06:19.38,0:06:21.30,Hackadoll_Main,1,0000,0000,0000,,She is quite a challenging case.
+Dialogue: 0,0:06:21.30,0:06:23.16,Hackadoll_Main,1,0000,0000,0000,,I can't make any recommendations!
+Dialogue: 0,0:06:23.16,0:06:25.16,Hackadoll_Main,2,0000,0000,0000,,She just isn't advancing at all.
+Dialogue: 0,0:06:24.42,0:06:25.93,Hackadoll_Main,Voice,0000,0000,0000,,{\a6}How 'bout it?
+Dialogue: 0,0:06:25.16,0:06:28.83,Hackadoll_Main,3,0000,0000,0000,,I don't even care how. \NI just wish she'd advance already.
+Dialogue: 0,0:06:28.83,0:06:31.11,Hackadoll_Main,Voice,0000,0000,0000,,{\a6}All oden items are 70 yen!
+Dialogue: 0,0:06:31.11,0:06:32.37,Hackadoll_Main,Voice,0000,0000,0000,,{\a6}Want some?
+Dialogue: 0,0:06:32.37,0:06:33.74,Hackadoll_Main,1,0000,0000,0000,,That's it!
+Dialogue: 0,0:06:33.76,0:06:35.22,okamuippon,Box,0000,0000,0000,,Okamu Ippon
+Dialogue: 0,0:06:34.39,0:06:37.37,Hackadoll_Main,Ayame,0000,0000,0000,,Jeez... Who were those girls anyway?
+Dialogue: 0,0:06:37.71,0:06:39.10,Hackadoll_Main,1,0000,0000,0000,,We have returned!
+Dialogue: 0,0:06:39.10,0:06:40.28,Hackadoll_Main,Ayame,0000,0000,0000,,It's them again!
+Dialogue: 0,0:06:41.83,0:06:43.24,Hackadoll_Main,1,0000,0000,0000,,Ta-da!
+Dialogue: 0,0:06:42.03,0:06:43.24,Hackadoll_Main,Ayame,0000,0000,0000,,Wh-What's that?!
+Dialogue: 0,0:06:43.24,0:06:44.11,Hackadoll_Main,1,0000,0000,0000,,It's oden!
+Dialogue: 0,0:06:44.11,0:06:45.38,Hackadoll_Main,1,0000,0000,0000,,Someone recommended it to us,
+Dialogue: 0,0:06:45.38,0:06:46.63,Hackadoll_Main,1,0000,0000,0000,,at the convenience store!
+Dialogue: 0,0:06:47.60,0:06:49.40,Hackadoll_Main,1,0000,0000,0000,,Here! Say "ah"...
+Dialogue: 0,0:06:49.40,0:06:50.84,Hackadoll_Main,Ayame,0000,0000,0000,,Hey, don't...
+Dialogue: 0,0:06:51.97,0:06:56.21,Hackadoll_Main,1,0000,0000,0000,,Ouch! Ouch! That's hot!
+Dialogue: 0,0:06:56.21,0:06:59.73,Hackadoll_Main,1,0000,0000,0000,,Ouch! Ouch! Ouch! It's hot! It's hot!
+Dialogue: 0,0:06:59.73,0:07:01.48,Hackadoll_Main,1,0000,0000,0000,,Oh! But you ate it!
+Dialogue: 0,0:07:01.48,0:07:03.56,Hackadoll_Main,1,0000,0000,0000,,You've advanced!
+Dialogue: 0,0:07:03.56,0:07:04.98,Hackadoll_Main,Ayame,0000,0000,0000,,You think {\i1}that.{\i0}..
+Dialogue: 0,0:07:05.46,0:07:07.66,Hackadoll_Main,Ayame,0000,0000,0000,,would advance me?!
+Dialogue: 0,0:07:07.66,0:07:09.06,Hackadoll_Main,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:07:09.06,0:07:11.80,Hackadoll_Main,1,0000,0000,0000,,Very well! I'll start over with \Nanother component analys—
+Dialogue: 0,0:07:11.80,0:07:12.98,Hackadoll_Main,Ayame,0000,0000,0000,,Just leave!
+Dialogue: 0,0:07:13.36,0:07:14.99,Hackadoll_Main,1,0000,0000,0000,,Please advance somehow!
+Dialogue: 0,0:07:14.99,0:07:16.69,Hackadoll_Main,Both,0000,0000,0000,,Advance!
+Dialogue: 0,0:07:19.00,0:07:24.84,generalscore,Text,0000,0000,0000,,{\fad(313,313)}Overall Rating

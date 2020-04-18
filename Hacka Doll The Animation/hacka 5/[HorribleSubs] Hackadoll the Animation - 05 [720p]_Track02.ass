@@ -1,0 +1,123 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Hackadoll_Main,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Hackadoll_Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Hackadoll_Flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Hackadoll_Flashback_Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Hackadoll_Ep_Title,Open Sans Semibold,24,&H00FFFFFF,&H000000FF,&H007DBB5E,&H00000000,1,1,0,0,100,100,0,0,1,2,0,9,13,67,73,1
+Style: remaining,Open Sans Semibold,27,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,3,0,0,28,1
+Style: eval,Open Sans Semibold,30,&H00ABC73D,&H000000FF,&H00EDFBD8,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,13,13,13,1
+Style: conbini,Open Sans Semibold,24,&H00F4B473,&H000000FF,&H00F9F7EE,&H00BCB1AD,1,0,0,0,100,100,0,0,1,2,1,2,13,13,13,1
+Style: frankfurts,Open Sans Semibold,24,&H00000000,&H000000FF,&H00A3CCD5,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,13,13,27,1
+Style: gametext,Open Sans Semibold,18,&H00C5C5C5,&H000000FF,&H00F8F9FD,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,13,13,13,1
+Style: pizza,Open Sans Semibold,21,&H003E109D,&H000000FF,&H00ECE6ED,&H00000000,1,0,0,0,100,100,0,0,1,3,0,2,13,13,13,1
+Style: supercar,Open Sans Semibold,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,0,0,2,13,13,13,1
+Style: satellite,Open Sans Semibold,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,13,13,13,1
+Style: #4,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,2,13,13,13,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.00,0:00:00.00,Hackadoll_Main,Customers,0000,0000,0000,,Take that!
+Dialogue: 0,0:00:00.00,0:00:00.00,Hackadoll_Main,Customers,0000,0000,0000,,Little devil!
+Dialogue: 0,0:01:29.98,0:01:33.47,Hackadoll_Ep_Title,Text,0000,0000,0000,,{\fad(1,252)}Episode 5: "#4 Isn't Just for Show!"
+Dialogue: 0,0:01:42.99,0:01:43.91,remaining,Text,0001,0203,0052,,Remaining time
+Dialogue: 0,0:01:44.24,0:01:46.25,Hackadoll_Flashback,#2,0000,0000,0000,,Oh, dear... Look what you did to me...
+Dialogue: 0,0:01:46.25,0:01:47.65,Hackadoll_Flashback,Mom,0000,0000,0000,,What are you...?!
+Dialogue: 0,0:01:50.67,0:01:53.71,Hackadoll_Main,#0,0000,0000,0000,,They never do anything useful.
+Dialogue: 0,0:01:53.71,0:01:57.22,eval,Screen,0284,0001,0061,,Overall\NRating
+Dialogue: 0,0:01:58.33,0:02:01.38,Hackadoll_Main,#0,0000,0000,0000,,Looks like they need some shoring up.
+Dialogue: 0,0:02:08.47,0:02:12.69,Hackadoll_Main,#0,0000,0000,0000,,The newest model, developed using \Nall of our technology to date...
+Dialogue: 0,0:02:20.99,0:02:23.03,Hackadoll_Main,#0,0000,0000,0000,,Go forth, HackaDoll #4!
+Dialogue: 0,0:02:23.03,0:02:26.87,Hackadoll_Main,#0,0000,0000,0000,,Find #s 1 through 3 and show them how it's done!
+Dialogue: 0,0:02:36.31,0:02:38.72,Hackadoll_Main,#4,0000,0000,0000,,The network is vast.
+Dialogue: 0,0:02:39.52,0:02:40.76,Hackadoll_Main,#4,0000,0000,0000,,But...
+Dialogue: 0,0:02:40.76,0:02:43.79,Hackadoll_Main,,0000,0000,0000,,The real world is seriously vast, too!
+Dialogue: 0,0:02:44.38,0:02:48.77,Hackadoll_Main,#4,0000,0000,0000,,Now, then, where are they?
+Dialogue: 0,0:02:59.39,0:03:01.78,Hackadoll_Main,#4,0000,0000,0000,,Wait just a sec, Granny.
+Dialogue: 0,0:03:05.63,0:03:07.65,Hackadoll_Main,#4,0000,0000,0000,,Now you can cross all you like!
+Dialogue: 0,0:03:08.04,0:03:09.75,Hackadoll_Main,Granny,0000,0000,0000,,Wow, I advanced so far!
+Dialogue: 0,0:03:10.24,0:03:11.18,Hackadoll_Main,#4,0000,0000,0000,,For real?
+Dialogue: 0,0:03:11.18,0:03:14.31,Hackadoll_Main,#4,0000,0000,0000,,Wow! Advancing things is super easy!
+Dialogue: 0,0:03:14.31,0:03:17.79,Hackadoll_Main,#4,0000,0000,0000,,Okay, let's keep it up \Nand complete my mission!
+Dialogue: 0,0:03:21.38,0:03:25.10,conbini,Store,0009,0001,0120,,{\an8}Convenience Store
+Dialogue: 0,0:03:23.88,0:03:26.34,Hackadoll_Main,#1,0000,0000,0000,,Your change is 141 yen.
+Dialogue: 0,0:03:28.98,0:03:30.69,Hackadoll_Main,#1,0000,0000,0000,,Did I help advance you?
+Dialogue: 0,0:03:31.33,0:03:34.14,Hackadoll_Main,Punk,0000,0000,0000,,Huh? Isn't it supposed to be, \N"thanks for your business"?
+Dialogue: 0,0:03:34.14,0:03:35.24,Hackadoll_Main,#1,0000,0000,0000,,Uh, right...
+Dialogue: 0,0:03:35.92,0:03:36.54,Hackadoll_Main,Punk,0000,0000,0000,,My change.
+Dialogue: 0,0:03:36.54,0:03:37.40,Hackadoll_Main,#1,0000,0000,0000,,Sorry!
+Dialogue: 0,0:03:38.31,0:03:40.74,Hackadoll_Main,#1,0000,0000,0000,,I advanced you, didn't I?
+Dialogue: 0,0:03:43.49,0:03:53.50,frankfurts,Boxes,0000,0000,0000,,Frankfurters
+Dialogue: 0,0:03:43.83,0:03:45.22,Hackadoll_Main,#2,0000,0000,0000,,What happened?
+Dialogue: 0,0:03:45.22,0:03:46.95,Hackadoll_Main,,0000,0000,0000,,Why do we have so many frankfurters?
+Dialogue: 0,0:03:46.95,0:03:49.16,Hackadoll_Main,Manager,0000,0000,0000,,Well, you ordered them, didn't you?
+Dialogue: 0,0:03:49.16,0:03:52.52,Hackadoll_Main,#2,0000,0000,0000,,Oops! I think the number I ordered \Nwas off by a couple of digits.
+Dialogue: 0,0:03:52.52,0:03:53.92,Hackadoll_Main,Manager,0000,0000,0000,,You're killing me here!
+Dialogue: 0,0:03:53.92,0:03:55.67,Hackadoll_Main,,0000,0000,0000,,What if we can't sell all these?
+Dialogue: 0,0:03:55.67,0:03:57.66,Hackadoll_Main,#2,0000,0000,0000,,Why don't you eat them?
+Dialogue: 0,0:03:58.21,0:03:59.96,Hackadoll_Main,Manager,0000,0000,0000,,Don't you giggle at me.
+Dialogue: 0,0:04:04.48,0:04:05.72,Hackadoll_Main,#3,0000,0000,0000,,Let me have that.
+Dialogue: 0,0:04:07.56,0:04:09.35,Hackadoll_Main,#4,0000,0000,0000,,Found you!
+Dialogue: 0,0:04:11.78,0:04:12.85,Hackadoll_Main,#1,0000,0000,0000,,Welcome to our store.
+Dialogue: 0,0:04:15.17,0:04:20.86,Hackadoll_Main,#4,0000,0000,0000,,High-spec Personal Entertainment \NAI, HackaDoll #4!
+Dialogue: 0,0:04:21.28,0:04:23.13,Hackadoll_Main,All,0000,0000,0000,,HackaDoll #4?
+Dialogue: 0,0:04:24.34,0:04:28.10,Hackadoll_Main,#1,0000,0000,0000,,You're #4-chan, the one said to \Nbe able to advance anything?
+Dialogue: 0,0:04:28.50,0:04:30.33,Hackadoll_Main,#4,0000,0000,0000,,Exactly!
+Dialogue: 0,0:04:30.97,0:04:33.27,Hackadoll_Main,#2,0000,0000,0000,,So they finished you! Amazing!
+Dialogue: 0,0:04:34.18,0:04:36.46,Hackadoll_Main,#4,0000,0000,0000,,So? What're you all doing?
+Dialogue: 0,0:04:36.97,0:04:40.39,Hackadoll_Main,#1,0000,0000,0000,,The manager asked us to help \Nadvance this convenience store.
+Dialogue: 0,0:04:40.39,0:04:41.91,Hackadoll_Main,#1,0000,0000,0000,,It's a part-time job!
+Dialogue: 0,0:04:41.91,0:04:44.01,Hackadoll_Main,#2,0000,0000,0000,,We get paid 890 yen per hour.
+Dialogue: 0,0:04:44.01,0:04:45.59,Hackadoll_Main,#3,0000,0000,0000,,It's a very at-home work environment.
+Dialogue: 0,0:04:47.18,0:04:51.20,Hackadoll_Main,#1,0000,0000,0000,,But we mess up so much, \Nwe can't seem to advance anything.
+Dialogue: 0,0:04:51.80,0:04:54.56,Hackadoll_Main,#4,0000,0000,0000,,But advancing things is super easy!
+Dialogue: 0,0:04:54.56,0:04:57.73,Hackadoll_Main,#4,0000,0000,0000,,Oh, well. I guess I'll have \Nto show you how it's done!
+Dialogue: 0,0:04:58.77,0:05:01.12,Hackadoll_Main,#4,0000,0000,0000,,Component Analysis!
+Dialogue: 0,0:05:02.31,0:05:04.06,Hackadoll_Main,All,0000,0000,0000,,Wow! Amazing!
+Dialogue: 0,0:05:04.77,0:05:07.52,Hackadoll_Main,#4,0000,0000,0000,,Since you love smartphone \Ngames, you need this!
+Dialogue: 0,0:05:10.58,0:05:11.70,gametext,Phone,0001,0001,0026,,{\an8}Want to gaze at the sky from Aff with me?
+Dialogue: 0,0:05:10.90,0:05:14.20,Hackadoll_Main,Customer,0000,0000,0000,,Wow! So many ultra-super characters!
+Dialogue: 0,0:05:14.20,0:05:16.83,pizza,Bag,0001,0057,0144,,Pizza Roll
+Dialogue: 0,0:05:14.79,0:05:16.39,Hackadoll_Main,#4,0000,0000,0000,,Since you are hungry...
+Dialogue: 0,0:05:20.63,0:05:22.09,Hackadoll_Main,Pizza,0000,0000,0000,,Delivery for you!
+Dialogue: 0,0:05:25.78,0:05:28.09,Hackadoll_Main,#4,0000,0000,0000,,There! All the money you can grab!
+Dialogue: 0,0:05:28.09,0:05:30.22,supercar,Magazine,0108,0001,0080,,It's Super Car!!
+Dialogue: 0,0:05:31.96,0:05:36.23,Hackadoll_Main,#4,0000,0000,0000,,Road Roll— I mean, Super Car!
+Dialogue: 0,0:05:39.62,0:05:42.10,Hackadoll_Main,#1,0000,0000,0000,,Amazing! She's advancing left and right!
+Dialogue: 0,0:05:42.10,0:05:44.10,Hackadoll_Main,#4,0000,0000,0000,,#4 isn't just for show.
+Dialogue: 0,0:05:44.60,0:05:47.67,Hackadoll_Main,Kid,0000,0000,0000,,Mom! I wanna see a shooting star!
+Dialogue: 0,0:05:48.24,0:05:50.99,Hackadoll_Main,Mom,0000,0000,0000,,Okay, when it gets dark, we'll look for one.
+Dialogue: 0,0:05:50.99,0:05:53.08,Hackadoll_Main,Kid,0000,0000,0000,,No! I wanna see it now!
+Dialogue: 0,0:05:55.67,0:05:58.12,Hackadoll_Main,#4,0000,0000,0000,,F-F-F-Found you!
+Dialogue: 0,0:06:09.46,0:06:11.84,Hackadoll_Main,Man,0000,0000,0000,,The satellite's orbit has \Nmysteriously changed!
+Dialogue: 0,0:06:12.84,0:06:15.23,Hackadoll_Main,#4,0000,0000,0000,,Look! It's a shooting star!
+Dialogue: 0,0:06:15.23,0:06:16.39,Hackadoll_Main,Kid,0000,0000,0000,,How pretty!
+Dialogue: 0,0:06:19.54,0:06:20.49,Hackadoll_Main,People,0000,0000,0000,,What is that?
+Dialogue: 0,0:06:20.49,0:06:21.78,Hackadoll_Main,People,0000,0000,0000,,It's gonna fall on Earth!
+Dialogue: 0,0:06:22.37,0:06:24.11,Hackadoll_Main,#1,0000,0000,0000,,Oh, no! This is bad!
+Dialogue: 0,0:06:24.11,0:06:25.40,Hackadoll_Main,#2,0000,0000,0000,,What should we do?
+Dialogue: 0,0:06:26.57,0:06:27.73,Hackadoll_Main,#3,0000,0000,0000,,We must run.
+Dialogue: 0,0:06:29.01,0:06:30.27,Hackadoll_Main,#1,0000,0000,0000,,Sister 0!
+Dialogue: 0,0:06:30.93,0:06:35.19,Hackadoll_Main,#4,0000,0000,0000,,Oh, I was just showing them how advancing is do—
+Dialogue: 0,0:06:36.91,0:06:42.27,Hackadoll_Main,#0,0000,0000,0000,,You call {\i1}that{\i0} advancing?!
+Dialogue: 0,0:06:42.92,0:06:48.42,satellite,Blue arrow,0001,0444,0097,,{\an8}Satellite
+Dialogue: 0,0:06:44.28,0:06:48.42,satellite,Red arrow,0028,0001,0152,,{\an8}#4
+Dialogue: 0,0:06:46.66,0:06:48.04,Hackadoll_Main,Man,0000,0000,0000,,Oh. It's back to normal.
+Dialogue: 0,0:06:52.57,0:06:55.70,Hackadoll_Main,#4,0000,0000,0000,,Ow, ow, ow...
+Dialogue: 0,0:06:55.89,0:06:58.78,Hackadoll_Main,Customer,0000,0000,0000,,Hey! Why is my phone bill so high?
+Dialogue: 0,0:06:58.78,0:07:02.31,Hackadoll_Main,Customer,0000,0000,0000,,How do you expect me to \Neat 100 pizzas by myself?
+Dialogue: 0,0:07:02.31,0:07:03.97,Hackadoll_Main,Customer,0000,0000,0000,,I'm gonna get arrested!
+Dialogue: 0,0:07:04.52,0:07:06.19,Hackadoll_Main,Customer,0000,0000,0000,,You'd better take responsibility!
+Dialogue: 0,0:07:07.03,0:07:08.88,Hackadoll_Main,#4,0000,0000,0000,,Whoa! Wh-Wh-Why?!
+Dialogue: 0,0:07:16.16,0:07:17.95,Hackadoll_Main,#0,0000,0000,0000,,Now, then...
+Dialogue: 0,0:07:19.83,0:07:23.27,Hackadoll_Main,All,0000,0000,0000,,W-Welcome to our store.
