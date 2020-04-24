@@ -78,7 +78,7 @@ $ git push origin master
 - **Qual a frequência de lançamentos de vocês?**
     - Indeterminada.
 - **Que tipo de encode vocês usam em seus releases?**
-    - Arquivos em Mp4 para projetos em Hardsub e MKV para Softsub com os codecs x264 AVC AAC.
+    - Arquivos em Mp4 para projetos em Hardsub e MKV para Softsub, com os codecs x264 AVC AAC.
 - **Posso sugerir um projeto?**
     - Claro! Mas isso não significa que vamos fazer.
 - **Achei um link quebrado ou errado, o que faço?**
@@ -90,7 +90,7 @@ $ git push origin master
 - **Tal projeto de vocês está disponível em um serviço licenciado no Brasil, onde devo ver?**
     - Se você ja é assinante do serviço não faz muita diferença onde vai ver.
 - **Tal projeto de vocês foi feito por outro fansub, qual está melhor?**
-    - Depende do que você está comparando, encode, tradução, typesetting ou revisão. Consideramos nossa qualidade boa, se você acha que deixa a desejar então faça você mesmo 💩.
+    - Depende do que você está comparando, encode, tradução, typesetting ou revisão. Consideramos nossa qualidade boa, se você acha que deixa a desejar então faça você mesmo. 💩
 - **Como sei que estou vendo um release original de vocês?**
     - Além da nossa tag [af] no arquivo, você pode consultar nossa lista de CRC.
 

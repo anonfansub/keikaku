@@ -16,26 +16,22 @@ Video File: [HS]Black_Gate_-_Gate_1[Dual_Audio][v2].mkv
 Video AR Mode: 4
 Video AR Value: 1.818182
 Video Zoom Percent: 1.250000
-Scroll Position: 251
-Active Line: 256
-Video Position: 31683
+Scroll Position: 257
+Active Line: 265
+Video Position: 366
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Revalo ModernBold,28,&H00FFFFFF,&H000000FF,&H00000202,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,15,1
+Style: Default,Apple Garamond,28,&H00FFFFFF,&H000000FF,&H00000202,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,15,1
 Style: room,ArtBrush,27,&H001A1A1A,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,90,0,0,1,0,0.5,2,10,10,15,1
-Style: room 2,Australian Sunset,22,&H00080502,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,65,110,0,0,1,0,0,8,10,10,15,1
+Style: room 2,Arial,22,&H00080502,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,65,110,0,0,1,0,0,8,10,10,15,1
 Style: back,Arial,20,&H004D6B8A,&H000000FF,&H004D6B8A,&H00000000,0,0,0,0,100,100,0,0,3,2,0,8,10,10,10,1
-Style: room3,Dirty Finger,22,&H001A1A1A,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,90,0,0,1,0,0.5,8,10,10,15,1
+Style: room3,Arial,22,&H001A1A1A,&H000000FF,&H00000000,&H00000000,-1,0,0,0,65,110,0,0,1,0,0.5,8,10,10,15,1
 Style: back 2,Arial,20,&H00BCAFAC,&H000000FF,&H00BBACAA,&H00000000,0,0,0,0,100,100,0,0,3,2,0,8,10,10,10,1
-Style: suzuku,Ruzicka TypeK,40,&H00F8F8F8,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,55,2,2,10,10,10,1
+Style: suzuku,Vivaldi,40,&H00F8F8F8,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,55,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:15.24,0:00:18.87,room3,,0,0,0,,{\pos(320,6.111)}Sala de Aula
-Dialogue: 2,0:00:15.24,0:00:18.87,room3,,0,0,0,,{\pos(321.788,20)}de Física
-Dialogue: 1,0:00:15.24,0:00:18.87,back 2,,0,0,0,,{\fscx103\fscy117}de Física
-Dialogue: 0,0:00:15.24,0:00:18.87,back 2,,0,0,0,,{\blur1\bord4\fscx103\fscy117\3c&H1A1B1E&}de Física
 Dialogue: 0,0:00:35.26,0:00:37.06,Default,,0,0,0,,S-Shizuku.
 Dialogue: 0,0:00:49.64,0:00:51.48,Default,,0,0,0,,V-Você...
 Dialogue: 0,0:00:51.58,0:00:52.88,Default,,0,0,0,,Não fale.
@@ -77,7 +73,7 @@ Dialogue: 0,0:04:48.98,0:04:52.15,Default,,0,0,0,,Na-Narifumi!
 Dialogue: 0,0:05:04.60,0:05:06.12,Default,,0,0,0,,Narifumi... {Vem o Karalho( ͡° ͜ʖ ͡°)Kê agora...}
 Dialogue: 0,0:06:00.56,0:06:01.85,Default,,0,0,0,,Ei, Narifumi.
 Dialogue: 0,0:06:01.96,0:06:02.55,Default,,0,0,0,,Hum?
-Dialogue: 0,0:06:02.89,0:06:07.76,Default,,0,0,0,,Se você tivesse poder para fazer \No que quisesse com este mundo,
+Dialogue: 0,0:06:02.89,0:06:07.76,Default,,0,0,0,,Se você tivesse poder para fazer \No que quiser com este mundo,
 Dialogue: 0,0:06:07.90,0:06:09.12,Default,,0,0,0,,o que você faria?
 Dialogue: 0,0:06:09.26,0:06:10.16,Default,,0,0,0,,Hã?
 Dialogue: 0,0:06:10.30,0:06:11.70,Default,,0,0,0,,O que você quer dizer?
@@ -89,25 +85,6 @@ Dialogue: 0,0:06:24.85,0:06:26.71,Default,,0,0,0,,Por que está pensando tão se
 Dialogue: 0,0:06:26.85,0:06:28.54,Default,,0,0,0,,Isso nunca aconteceria de qualquer forma.
 Dialogue: 0,0:06:28.68,0:06:32.02,Default,,0,0,0,,Mas foi você quem começou.
 Dialogue: 0,0:06:32.22,0:06:33.21,Default,,0,0,0,,Que coisa. {Jeez.} {Talvez tenha uma palavra melhor, mas acho que essa está boa.}
-Dialogue: 0,0:06:41.08,0:06:42.59,room,,0,0,0,,{\blur0.5\frx338\fry22\pos(417.778,264)\frz28.50\i1}Sala de Aula de Fisica{\i0} {Physics Classroom} {Type.}
-Dialogue: 0,0:06:42.59,0:06:42.63,room,,0,0,0,,{\blur0.5\frx338\fry22\pos(417.778,264)\frz28.50}{\i1}Sala de Aula de Fisica{\i0} {Physics Classroom} {Type.}
-Dialogue: 0,0:06:42.63,0:06:42.67,room,,0,0,0,,{\blur0.5\frx338\fry22\pos(417.778,260)\frz28.50}{\i1}Sala de Aula de Fisica{\i0} {Physics Classroom} {Type.}
-Dialogue: 0,0:06:42.67,0:06:42.71,room,,0,0,0,,{\blur0.5\frx338\fry22\pos(417.778,250)\frz28.50}{\i1}Sala de Aula de Fisica{\i0} {Physics Classroom} {Type.}
-Dialogue: 0,0:06:42.71,0:06:42.75,room,,0,0,0,,{\blur0.5\frx338\fry22\pos(417.778,237)\frz28.50}{\i1}Sala de Aula de Fisica{\i0} {Physics Classroom} {Type.}
-Dialogue: 0,0:06:42.75,0:06:42.79,room,,0,0,0,,{\blur0.5\frx338\fry22\pos(417.778,222)\frz28.50}{\i1}Sala de Aula de Fisica{\i0} {Physics Classroom} {Type.}
-Dialogue: 0,0:06:42.79,0:06:42.84,room,,0,0,0,,{\blur0.5\frx338\fry22\pos(417.778,206)\frz28.50}{\i1}Sala de Aula de Fisica{\i0} {Physics Classroom} {Type.}
-Dialogue: 0,0:06:42.84,0:06:42.88,room,,0,0,0,,{\blur0.5\frx338\fry22\pos(417.778,188)\frz28.50}{\i1}Sala de Aula de Fisica{\i0} {Physics Classroom} {Type.}
-Dialogue: 0,0:06:42.88,0:06:42.92,room,,0,0,0,,{\blur0.5\frx338\fry22\pos(417.778,170)\frz28.50}{\i1}Sala de Aula de Fisica{\i0} {Physics Classroom} {Type.}
-Dialogue: 0,0:06:42.92,0:06:42.96,room,,0,0,0,,{\blur0.5\frx338\fry22\pos(417.778,151)\frz28.50}{\i1}Sala de Aula de Fisica{\i0} {Physics Classroom} {Type.}
-Dialogue: 0,0:06:42.96,0:06:43.00,room,,0,0,0,,{\blur0.5\frx338\fry22\pos(417.778,132)\frz28.50}{\i1}Sala de Aula de Fisica{\i0} {Physics Classroom} {Type.}
-Dialogue: 0,0:06:43.00,0:06:43.04,room,,0,0,0,,{\blur0.5\frx338\fry22\pos(417.778,111)\frz28.50}{\i1}Sala de Aula de Fisica{\i0} {Physics Classroom} {Type.}
-Dialogue: 0,0:06:43.04,0:06:43.09,room,,0,0,0,,{\blur0.5\frx338\fry22\pos(417.778,92)\frz28.50}{\i1}Sala de Aula de Fisica{\i0} {Physics Classroom} {Type.}
-Dialogue: 0,0:06:43.09,0:06:43.13,room,,0,0,0,,{\blur0.5\frx338\fry22\pos(417.778,73)\frz28.50}{\i1}Sala de Aula de Fisica{\i0} {Physics Classroom} {Type.}
-Dialogue: 0,0:06:43.13,0:06:43.17,room,,0,0,0,,{\blur0.5\frx338\fry22\pos(417.778,52)\frz28.50}{\i1}Sala de Aula de Fisica{\i0} {Physics Classroom} {Type.}
-Dialogue: 0,0:06:43.17,0:06:43.21,room,,0,0,0,,{\blur0.5\frx338\fry22\pos(417.778,34)\frz28.50}{\i1}Sala de Aula de Fisica{\i0} {Physics Classroom} {Type.}
-Dialogue: 0,0:06:43.21,0:06:43.25,room,,0,0,0,,{\blur0.5\frx338\fry22\pos(417.778,15)\frz28.50}{\i1}Sala de Aula de Fisica{\i0} {Physics Classroom} {Type.}
-Dialogue: 0,0:06:43.25,0:06:43.29,room,,0,0,0,,{\blur0.5\frx338\fry22\pos(417.778,-4)\frz28.50}{\i1}Sala de Aula de Fisica{\i0} {Physics Classroom} {Type.}
-Dialogue: 0,0:06:43.29,0:06:43.34,room,,0,0,0,,{\blur0.5\frx338\fry22\pos(417.778,-20)\frz28.50}{\i1}Sala de Aula de Fisica{\i0} {Physics Classroom} {Type.}
 Dialogue: 0,0:06:45.37,0:06:46.30,Default,,0,0,0,,Kasumi.
 Dialogue: 0,0:06:46.84,0:06:50.13,Default,,0,0,0,,O que vocês dois estavam fazendo aqui?
 Dialogue: 0,0:06:50.91,0:06:54.84,Default,,0,0,0,,Como ousam tirar uma folga enquanto \Nestamos todos ocupados?
@@ -173,9 +150,6 @@ Dialogue: 0,0:11:33.25,0:11:34.38,Default,,0,0,0,,Eu vou gozar!
 Dialogue: 0,0:11:34.92,0:11:37.41,Default,,0,0,0,,Eu não... não consigo mais... {I can't...} {Eu não acho que ela falou isso dai coloquei o que minha experiência mandava, mas aí tu muda isso se achar melhor.}
 Dialogue: 0,0:11:45.23,0:11:48.07,Default,,0,0,0,,Fuu-chan, eu estou gozando!
 Dialogue: 0,0:11:48.20,0:11:50.47,Default,,0,0,0,,Eu também! Não consigo mais me segurar!
-Dialogue: 2,0:12:02.86,0:12:06.85,room 2,,0,0,0,,{\blur0.5}Sala da Presidente do Conselho Estudantil {<i>School President's Room</i>} {Type.} {Coloquei diferente da tradução, pois na linha 127 ela fala "Seitokaichou" que até onde sei seria o que eu coloquei.}
-Dialogue: 1,0:12:02.86,0:12:06.85,back,,0,0,0,,{\pos(319.111,18)}Sala da Presidente do Conselstudant {<i>School President's Room</i>} {Type.} {Coloquei diferente da tradução, pois na linha 127 ela fala "Seitokaichou" que até onde sei seria o que eu coloquei.}
-Dialogue: 0,0:12:02.86,0:12:06.85,back,,0,0,0,,{\bord4\2c&H1C2939&\3c&H1C2939&\pos(319.111,18)}Sala da Presidente do Conselstudant {<i>School President's Room</i>} {Type.} {Coloquei diferente da tradução, pois na linha 127 ela fala "Seitokaichou" que até onde sei seria o que eu coloquei.}
 Dialogue: 0,0:12:13.69,0:12:14.92,Default,,0,0,0,,Francamente!
 Dialogue: 0,0:12:15.16,0:12:19.93,Default,,0,0,0,,Por que a Presidente do Conselho Estudantil tem que fazer esse trabalho duro?
 Dialogue: 0,0:12:21.67,0:12:22.73,Default,,0,0,0,,Poxa!
@@ -187,13 +161,13 @@ Dialogue: 0,0:12:34.45,0:12:36.38,Default,,0,0,0,,Todos estão fora.
 Dialogue: 0,0:12:36.48,0:12:37.38,Default,,0,0,0,,O que foi?
 Dialogue: 0,0:12:37.82,0:12:38.72,Default,,0,0,0,,Hum...
 Dialogue: 0,0:12:39.25,0:12:41.41,Default,,0,0,0,,O quê? Fale logo!
-Dialogue: 0,0:12:42.39,0:12:46.33,Default,,0,0,0,,É sobre nossas cortinas corta luz.
+Dialogue: 0,0:12:42.39,0:12:46.33,Default,,0,0,0,,É sobre nossas cortinas corta-luz.
 Dialogue: 0,0:12:46.53,0:12:50.36,Default,,0,0,0,,O número pedido não bate com\N o número que nos foi dado.
 Dialogue: 0,0:12:50.47,0:12:52.30,Default,,0,0,0,,Muitas ou poucas?
 Dialogue: 0,0:12:53.03,0:12:54.40,Default,,0,0,0,,Nós estamos com apenas uma. {We're short one.}
 Dialogue: 0,0:12:54.97,0:12:57.06,Default,,0,0,0,,Se é só uma, dê um jeito! {make do!} {Muda essa palavra qualquer coisa Alphard, pois talvez tenha algo que encaixe melhor.}
 Dialogue: 0,0:12:57.17,0:12:59.37,Default,,0,0,0,,Estou sem pessoal como pode \Nver e tenho muito o que fazer!
-Dialogue: 0,0:13:00.48,0:13:06.68,Default,,0,0,0,,Mas nós estamos fazendo uma Casa Mal-Assombrada, \Nentão precisamos das cortinas corta luz.
+Dialogue: 0,0:13:00.48,0:13:06.68,Default,,0,0,0,,Mas nós estamos fazendo uma Casa Mal-Assombrada, \Nentão precisamos das cortinas corta-luz.
 Dialogue: 0,0:13:07.28,0:13:09.31,Default,,0,0,0,,Está bem! Eu vou cuidar disso!
 Dialogue: 0,0:13:11.12,0:13:13.55,Default,,0,0,0,,Eu vou abrir o depósito para você, venha comigo.
 Dialogue: 0,0:13:13.69,0:13:15.52,Default,,0,0,0,,Deve haver pelo menos uma sobrando.
@@ -320,7 +294,11 @@ Dialogue: 0,0:26:21.78,0:26:23.80,Default,,0,0,0,,Onii-chan, quem é você?
 Dialogue: 0,0:26:25.28,0:26:28.77,Default,,0,0,0,,E quem é você?
 Dialogue: 0,0:26:32.99,0:26:34.85,Default,,0,0,0,,O que está acontecendo?
 Dialogue: 0,0:26:38.43,0:26:40.92,Default,,0,0,0,,Alguém pode me dizer?
-Dialogue: 0,0:26:42.74,0:26:46.70,suzuku,,0,0,0,,{\pos(542.4,333.2)\c&H000000&}Continua
-Dialogue: 1,0:26:42.74,0:26:46.70,suzuku,,0,0,0,,{\fad(443,472)\pos(542.4,333.2)}Continua
-Dialogue: 0,0:26:42.74,0:26:46.70,suzuku,,0,0,0,,{\pos(355.2,329.2)\c&H000000&}Continua
-Dialogue: 1,0:26:42.74,0:26:46.70,suzuku,,0,0,0,,{\fad(443,472)\pos(355.2,329.2)\c&H000000&}Continua
+Dialogue: 1,0:12:02.86,0:12:06.85,back,,0,0,0,,{\fscy110\pos(334.8,21.2)}Sala da Presidente do Conselstut {<i>School President's Room</i>} {Type.} {Coloquei diferente da tradução, pois na linha 127 ela fala "Seitokaichou" que até onde sei seria o que eu coloquei.}
+Dialogue: 0,0:12:02.86,0:12:06.85,back,,0,0,0,,{\fscy110\bord4\2c&H1C2939&\3c&H1C2939&\pos(334.8,21.2)}Sala da Presidente do Conselstut{<i>School President's Room</i>} {Type.} {Coloquei diferente da tradução, pois na linha 127 ela fala "Seitokaichou" que até onde sei seria o que eu coloquei.}
+Dialogue: 1,0:00:15.24,0:00:18.87,back 2,,0,0,0,,{\fscx138\fscy110\pos(304,21.2)}de Física
+Dialogue: 0,0:00:15.24,0:00:18.87,back 2,,0,0,0,,{\blur1\bord4\3c&H1A1B1E&\fscx137\fscy110\pos(304.8,21.2)}de Física
+Dialogue: 2,0:12:02.86,0:12:06.85,room 2,,0,0,0,,{\pos(334.8,21.2)\blur0.5}Sala da Presidente do Conselho Estudantil {<i>School President's Room</i>} {Type.} {Coloquei diferente da tradução, pois na linha 127 ela fala "Seitokaichou" que até onde sei seria o que eu coloquei.}
+Dialogue: 2,0:00:15.24,0:00:18.87,room3,,0,0,0,,{\blur0.5\\pos(324,21.311)}Sala de Aula de Física
+Dialogue: 0,0:26:42.74,0:26:46.70,suzuku,,0,0,0,,{\pos(442.4,290.8)\fscx340\fscy116\c&H000000&}Continua
+Dialogue: 1,0:26:42.74,0:26:46.70,suzuku,,0,0,0,,{\fad(400,400)\fscx134\fscy137\pos(520.8,336)}Continua

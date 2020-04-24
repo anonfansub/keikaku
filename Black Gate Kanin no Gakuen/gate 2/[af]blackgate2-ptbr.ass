@@ -16,14 +16,14 @@ Video File: [HS]Black_Gate_-_Gate_2[Dual_Audio][v2].mkv
 Video AR Mode: 4
 Video AR Value: 1.818182
 Video Zoom Percent: 1.250000
-Scroll Position: 95
-Active Line: 98
-Video Position: 16226
+Scroll Position: 238
+Active Line: 244
+Video Position: 39544
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Revalo ModernBold,28,&H00FFFFFF,&H000000FF,&H00000202,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,15,1
-Style: suzuku,Ruzicka TypeK,40,&H00F8F8F8,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,55,2,2,10,10,10,1
+Style: Default,Apple Garamond,28,&H00FFFFFF,&H000000FF,&H00000202,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,15,1
+Style: suzuku,Vivaldi,40,&H00F8F8F8,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,55,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -33,13 +33,13 @@ Dialogue: 0,0:01:59.35,0:02:01.84,Default,,0,0,0,,Me deem o poder!
 Dialogue: 0,0:02:24.51,0:02:26.44,Default,,0,0,0,,Mais! Mais!
 Dialogue: 0,0:02:50.17,0:02:53.46,Default,,0,0,0,,Poder, me deem mais poder.
 Dialogue: 0,0:04:15.45,0:04:18.68,Default,,0,0,0,,O que diabos está acontecendo?
-Dialogue: 0,0:04:27.50,0:04:29.36,Default,,0,0,0,,Quem são essas pessoas?
+Dialogue: 0,0:04:27.50,0:04:29.36,Default,,0,0,0,,Quem são esses caras?
 Dialogue: 0,0:04:30.20,0:04:32.22,Default,,0,0,0,,Pessoal, vamos todas entrar!
 Dialogue: 0,0:04:39.84,0:04:41.28,Default,,0,0,0,,Quem é essa garota?
 Dialogue: 0,0:04:41.41,0:04:45.61,Default,,0,0,0,,Bem, eu não sei ao certo.
 Dialogue: 0,0:04:52.72,0:04:54.66,Default,,0,0,0,,Nós não estamos fazendo qualquer progresso.
 Dialogue: 0,0:04:54.79,0:04:57.62,Default,,0,0,0,,Se pudéssemos ao menos nos livrar de alguns deles...
-Dialogue: 0,0:05:01.46,0:05:03.36,Default,,0,0,0,,O que tem de errado?
+Dialogue: 0,0:05:01.46,0:05:03.36,Default,,0,0,0,,O que há de errado?
 Dialogue: 0,0:05:03.53,0:05:04.52,Default,,0,0,0,,Eu não sei.
 Dialogue: 0,0:05:04.73,0:05:07.76,Default,,0,0,0,,Não faço ideia de como chegaram aqui tão rápido.
 Dialogue: 0,0:05:09.84,0:05:13.30,Default,,0,0,0,,Eu me pergunto se vocês conseguiram\N a permissão dos Anciãos primeiro.
@@ -92,7 +92,7 @@ Dialogue: 0,0:09:15.85,0:09:24.23,Default,,0,0,0,,Eles estiveram protegendo o po
 Dialogue: 0,0:09:24.69,0:09:26.02,Default,,0,0,0,,Protegendo-o?
 Dialogue: 0,0:09:26.16,0:09:27.32,Default,,0,0,0,,Do quê?
 Dialogue: 0,0:09:27.90,0:09:30.36,Default,,0,0,0,,Do poder que destruiu este mundo.
-Dialogue: 0,0:09:30.47,0:09:34.16,Default,,0,0,0,,Esse poder é conhecido como "O \Npoder para governar o mundo"...
+Dialogue: 0,0:09:30.47,0:09:34.16,Default,,0,0,0,,Esse poder é conhecido como \N"O poder para governar o mundo"...
 Dialogue: 0,0:09:34.54,0:09:37.80,Default,,0,0,0,,...que também pode destruir \No mundo em que vivemos.
 Dialogue: 0,0:09:38.17,0:09:42.87,Default,,0,0,0,,Então nós temos que selar o poder \Ndeste lado e guardar o portal...
 Dialogue: 0,0:09:42.98,0:09:44.34,Default,,0,0,0,,...para que ele não seja aberto.
@@ -160,7 +160,7 @@ Dialogue: 0,0:14:49.68,0:14:51.02,Default,,0,0,0,,Está tudo bem.
 Dialogue: 0,0:14:51.59,0:14:53.18,Default,,0,0,0,,Você já pode se mover.
 Dialogue: 0,0:15:46.14,0:15:48.44,Default,,0,0,0,,Narifumi! Narifumi!
 Dialogue: 0,0:16:39.13,0:16:40.36,Default,,0,0,0,,I-Incrível!
-Dialogue: 0,0:16:45.73,0:16:47.39,Default,,0,0,0,,Eu estou enlouquecendo. {I'm going to lose my mind.} {Se encontrar algo melhor é só trocar.}
+Dialogue: 0,0:16:45.73,0:16:47.39,Default,,0,0,0,,Eu estou em êxtase. {I'm going to lose my mind.} {Se encontrar algo melhor é só trocar.}
 Dialogue: 0,0:16:53.68,0:16:55.58,Default,,0,0,0,,Kasumi, eu vou gozar.
 Dialogue: 0,0:16:56.71,0:16:58.68,Default,,0,0,0,,Goze, Narifumi!
 Dialogue: 0,0:17:12.73,0:17:13.42,Default,,0,0,0,,Narifumi...
@@ -179,7 +179,7 @@ Dialogue: 0,0:18:14.22,0:18:18.22,Default,,0,0,0,,E não só isso, toda esta sit
 Dialogue: 0,0:18:18.33,0:18:20.76,Default,,0,0,0,,Por que eu tenho que aguentar isso?
 Dialogue: 0,0:18:20.90,0:18:21.83,Default,,0,0,0,,Se acalme.
 Dialogue: 0,0:18:22.70,0:18:23.53,Default,,0,0,0,,Não me toque!
-Dialogue: 0,0:18:23.63,0:18:24.89,Default,,0,0,0,,O-O que foi?! {W-What!} 
+Dialogue: 0,0:18:23.63,0:18:24.89,Default,,0,0,0,,O-O que foi?! {W-What!}
 Dialogue: 0,0:18:34.41,0:18:36.27,Default,,0,0,0,,Não tem por que chorar...
 Dialogue: 0,0:18:45.52,0:18:46.45,Default,,0,0,0,,Presidente...
 Dialogue: 0,0:18:52.76,0:18:55.75,Default,,0,0,0,,O que há de errado? Você não é assim.
@@ -216,7 +216,7 @@ Dialogue: 0,0:21:19.47,0:21:21.81,Default,,0,0,0,,Nós não queremos que ningué
 Dialogue: 0,0:21:29.35,0:21:31.65,Default,,0,0,0,,Ele vai meter em você. {He's going to enter you.}
 Dialogue: 0,0:21:33.09,0:21:33.75,Default,,0,0,0,,Dói?
 Dialogue: 0,0:21:33.89,0:21:34.72,Default,,0,0,0,,Aposto que dói.
-Dialogue: 0,0:21:34.86,0:21:36.98,Default,,0,0,0,,Você não parece ter muita experiência. 
+Dialogue: 0,0:21:34.86,0:21:36.98,Default,,0,0,0,,Você não parece ter muita experiência.
 Dialogue: 0,0:21:39.53,0:21:40.82,Default,,0,0,0,,Isso te deixa louca?
 Dialogue: 0,0:21:40.96,0:21:47.27,Default,,0,0,0,,Não há nada mais desmoralizante do que \Nexperimentar a sua própria impotência.
 Dialogue: 0,0:21:47.50,0:21:50.80,Default,,0,0,0,,Não importa o que você diga, \Nnão importa como se justifique...
@@ -225,7 +225,7 @@ Dialogue: 0,0:21:56.01,0:21:58.74,Default,,0,0,0,,Isso mesmo, poder é tudo. {Th
 Dialogue: 0,0:21:58.88,0:22:00.51,Default,,0,0,0,,Diga alguma coisa.
 Dialogue: 0,0:22:16.60,0:22:18.12,Default,,0,0,0,,Você está aproveitando?
 Dialogue: 0,0:22:18.37,0:22:19.53,Default,,0,0,0,,Mas que pervertida.
-Dialogue: 0,0:22:19.63,0:22:21.26,Default,,0,0,0,,Gostando de uma situação assim. 
+Dialogue: 0,0:22:19.63,0:22:21.26,Default,,0,0,0,,Gostando de uma situação assim.
 Dialogue: 0,0:22:21.97,0:22:24.10,Default,,0,0,0,,Não, eu não estou gostando.
 Dialogue: 0,0:22:24.91,0:22:26.40,Default,,0,0,0,,Pare de mentir.
 Dialogue: 0,0:22:27.24,0:22:28.64,Default,,0,0,0,,É embaraçoso.
@@ -271,7 +271,5 @@ Dialogue: 0,0:26:34.69,0:26:38.99,Default,,0,0,0,,Você é o único capaz de man
 Dialogue: 0,0:27:10.46,0:27:12.09,Default,,0,0,0,,Conto com você.
 Dialogue: 0,0:27:18.73,0:27:19.76,Default,,0,0,0,,Sensei!
 Dialogue: 0,0:27:19.93,0:27:22.23,Default,,0,0,0,,Nanami-sensei!
-Dialogue: 0,0:27:29.29,0:27:33.25,suzuku,,0,0,0,,{\pos(542.4,333.2)\c&H000000&}Continua
-Dialogue: 1,0:27:29.29,0:27:33.25,suzuku,,0,0,0,,{\fad(443,472)\pos(542.4,333.2)}Continua
-Dialogue: 0,0:27:29.29,0:27:33.25,suzuku,,0,0,0,,{\pos(355.2,329.2)\c&H000000&}Continua
-Dialogue: 1,0:27:29.29,0:27:33.25,suzuku,,0,0,0,,{\fad(443,472)\pos(355.2,329.2)\c&H000000&}Continua
+Dialogue: 0,0:27:29.29,0:27:33.25,suzuku,,0,0,0,,{\pos(442.4,290.8)\fscx340\fscy116\c&H000000&}Continua
+Dialogue: 1,0:27:29.29,0:27:33.25,suzuku,,0,0,0,,{\fad(400,400)\fscx134\fscy137\pos(520.8,336)}Continua
