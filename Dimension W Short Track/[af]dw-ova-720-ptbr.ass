@@ -10,21 +10,20 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: [SFEO-Raws] Dimension W - OVA (BD 1080P x264 FLAC).mkv
-Video File: [SFEO-Raws] Dimension W - OVA (BD 1080P x264 FLAC).mkv
+Audio File: [OnyxSubs] Dimension W - OVAv2 [BD 1280x720 H264 AC3] [EA93870A].mkv
+Video File: [OnyxSubs] Dimension W - OVAv2 [BD 1280x720 H264 AC3] [EA93870A].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 31
-Active Line: 35
-Video Position: 3600
+Active Line: 23
+Video Position: 205
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,KG Blank Space Solid,75,&H00FFFFFF,&H000000FF,&H001E470B,&H00000000,0,0,0,0,90,100,0,0,1,4.5,1.5,2,255,255,45,1
-Style: op,Boulder,75,&H00FFFEFC,&H000000FF,&H00F5B84F,&H00000000,0,0,0,0,80,130,0,0,1,4.5,0,9,15,45,30,1
-Style: end,Advert-Bold,81,&H002BAD84,&H000000FF,&H0009090A,&H00000000,0,0,0,0,90,110,0,0,1,4.5,0,3,15,45,30,1
-Style: typo,A-OTF BokutohN Std DB,75,&H00E6E6ED,&H000000FF,&H483CA284,&H00000000,-1,0,0,0,90,100,0,0,3,7.5,0,2,15,15,15,1
+Style: Default,Myriad Pro Black SemiCond,85,&H00FFFFFF,&H000000FF,&H001E470B,&HAE000000,0,0,0,0,90,100,0,0,1,3,3,2,150,150,45,1
+Style: op,Simply Rounded,75,&H00FFFEFC,&H000000FF,&H00F5B84F,&H00000000,0,0,0,0,80,130,0,0,1,4.5,0,9,0,45,30,1
+Style: end,Street - Lined,81,&H002BAD84,&H000000FF,&H0009090A,&H00000000,0,0,0,0,90,110,0,0,1,4.5,0,3,15,45,30,1
+Style: typo,Bahnschrift,80,&H00E6E6ED,&H000000FF,&H483CA284,&H00000000,-1,0,0,0,90,100,0,0,3,7.5,0,2,15,15,15,1
 Style: bath,Last Ninja,75,&H00767775,&H000000FF,&H00767775,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,15,15,15,1
 Style: nota,Komika Text,72,&H00FFFFFF,&H000000FF,&H0009090A,&H00000000,-1,0,0,0,90,100,0,0,1,4.5,1.5,7,75,255,38,1
 Style: cut,Gloucester MT Extra Condensed,75,&H0048494A,&H000000FF,&H00A6A8A8,&H00000000,-1,0,0,0,90,110,0,0,1,4.5,0,2,255,255,45,1
@@ -47,11 +46,11 @@ Dialogue: 0,0:01:13.03,0:01:15.32,op,,0,0,0,,{\blur4.5}Mude o mundo
 Dialogue: 0,0:01:15.53,0:01:17.70,op,,0,0,0,,{\blur4.5}Como uma revolução
 Dialogue: 0,0:01:17.91,0:01:18.87,op,,0,0,0,,{\blur4.5}Retribuindo
 Dialogue: 0,0:01:19.07,0:01:21.03,op,,0,0,0,,{\blur4.5}Me diga o que há de errado com a sociedade
-Dialogue: 0,0:01:21.24,0:01:23.54,op,,0,0,0,,{\blur4.5}Que todos dizem estar ok
+Dialogue: 0,0:01:21.24,0:01:23.54,op,,0,0,0,,{\blur4.5}Que todos dizem estar OK
 Dialogue: 0,0:01:24.45,0:01:26.83,op,,0,0,0,,{\blur4.5}Baixa resistência de células internas de alta energia
 Dialogue: 0,0:01:27.04,0:01:29.33,op,,0,0,0,,{\blur4.5}Reconstrua a bobina, não há mentira
 Dialogue: 0,0:01:31.48,0:01:37.26,typo,,0,0,0,,{\fad(487,0)\blur\an8\pos(1447.2,759)}  Robôs Sonham Com Casas de Banho?        .
-Dialogue: 0,0:01:40.51,0:01:42.97,Default,,0,0,0,,O sistema elétrico inteiro já era, eh?
+Dialogue: 0,0:01:40.51,0:01:42.97,Default,,0,0,0,,O sistema elétrico inteiro já era então?
 Dialogue: 0,0:01:43.18,0:01:46.02,Default,,0,0,0,,É meio velho, vai dar trabalho.
 Dialogue: 0,0:01:46.23,0:01:48.60,Default,,0,0,0,,Por que você simplesmente não troca por um novo?
 Dialogue: 0,0:01:48.81,0:01:51.44,Default,,0,0,0,,É por isso que você é uma lata-velha.
@@ -59,22 +58,22 @@ Dialogue: 0,0:01:51.65,0:01:56.90,Default,,0,0,0,,Você acha mesmo que há empre
 Dialogue: 0,0:01:58.24,0:02:01.37,Default,,0,0,0,,Tem razão. Não tem nenhumazinha.
 Dialogue: 0,0:02:01.58,0:02:05.25,Default,,0,0,0,,Ei lata-velha, vamos visitar a Mary hoje.
 Dialogue: 0,0:02:05.45,0:02:06.08,Default,,0,0,0,,Fique pronta.
-Dialogue: 0,0:02:06.29,0:02:10.08,Default,,0,0,0,,Kyoma-san, eu tenho um nome \Nperfeitamente respeitável, Mira.
+Dialogue: 0,0:02:06.29,0:02:10.08,Default,,0,0,0,,Kyouma-san, eu tenho um nome \Nperfeitamente respeitável, Mira.
 Dialogue: 0,0:02:10.29,0:02:13.38,Default,,0,0,0,,Por favor, me chame pelo nome, \Ncomo você fez na Ilha de Páscoa!
 Dialogue: 0,0:02:13.59,0:02:16.34,Default,,0,0,0,,Lata-velha é mais do que suficiente pra alguém como você.
-Dialogue: 0,0:02:21.30,0:02:26.10,Default,,0,0,0,,Kyoma-san! O que é esta coisa que mostra meu reflexo?
+Dialogue: 0,0:02:21.30,0:02:26.10,Default,,0,0,0,,Kyouma-san! O que é esta coisa que mostra meu reflexo?
 Dialogue: 0,0:02:28.14,0:02:29.73,Default,,0,0,0,,Em inglês.
 Dialogue: 0,0:02:28.14,0:02:29.73,nota,,0,0,0,,*Nota: Ela está se referindo ao espelho, "mirror", que \N soa como o nome dela, "mira" em japonglês.
 Dialogue: 0,0:02:30.15,0:02:36.86,Default,,0,0,0,,Então, qual é o nome do carro-chefe tipo kei da marca Dai***** no fim do século XX?{https://pt.wikipedia.org/wiki/Kei_car}
 Dialogue: 0,0:02:30.15,0:02:36.86,nota,,0,0,0,,*Nota: É Daihatsu Mira
-Dialogue: 0,0:02:38.99,0:02:43.58,Default,,0,0,0,,Então que tal o nome da famosa estrela \Nvariável na constelação de baleia, Cetus?{*****************}
+Dialogue: 0,0:02:38.99,0:02:43.58,Default,,0,0,0,,Então que tal o nome da famosa estrela \Nvariável na constelação da baleia, Cetus?{*****************}
 Dialogue: 0,0:02:46.20,0:02:49.00,Default,,0,0,0,,Chega de falar de coisas inúteis. Vá se arrumar.
-Dialogue: 0,0:02:49.21,0:02:50.75,Default,,0,0,0,,Tah...
+Dialogue: 0,0:02:49.21,0:02:50.75,Default,,0,0,0,,Tá...
 Dialogue: 0,0:02:55.71,0:02:58.59,Default,,0,0,0,,Por que será que ele não quer me chamar pelo nome?
 Dialogue: 0,0:03:04.35,0:03:05.85,Default,,0,0,0,,Ué?
 Dialogue: 0,0:03:06.60,0:03:08.27,Default,,0,0,0,,Hã?
 Dialogue: 0,0:03:09.89,0:03:11.52,cut,,0,0,0,,{\blur3\an8\c&H2135B4&\fscx91\fscy92\frx18\fry4\pos(733.5,190.8)}Aviso de Corte de Água
-Dialogue: 0,0:03:09.89,0:03:11.52,cut,,0,0,0,,{\blur3\an8\frz358.2\fscx88\fscy81\frx10\fry8\pos(645.6,399.9)}Sr. Kyoma Mabuchi
+Dialogue: 0,0:03:09.89,0:03:11.52,cut,,0,0,0,,{\blur3\an8\frz358.2\fscx88\fscy81\frx10\fry8\pos(645.6,399.9)}Sr. Kyouma Mabuchi
 Dialogue: 0,0:03:09.89,0:03:11.52,cut,,0,0,0,,{\blur3\an8\frz357.8\frx8\fry2\fscx76\fscy93\pos(744,522.6)}Como sua conta não foi paga depois
 Dialogue: 0,0:03:09.89,0:03:11.52,cut,,0,0,0,,{\blur3\an8\frx4\fry4\fscx80\fscy90\pos(777.6,635.4)\frz358.6}de três avisos, sua água foi cortada.
 Dialogue: 0,0:03:11.90,0:03:14.02,Default,,0,0,0,,Eu me esqueci totalmente.
@@ -83,7 +82,7 @@ Dialogue: 0,0:03:16.53,0:03:17.61,Default,,0,0,0,,É o que parece.
 Dialogue: 0,0:03:17.82,0:03:21.41,Default,,0,0,0,,Ein? Faz meses que você não paga a conta?
 Dialogue: 0,0:03:21.61,0:03:23.41,Default,,0,0,0,,Mas eu quero tomar banho.
 Dialogue: 0,0:03:23.62,0:03:25.53,Default,,0,0,0,,Você não precisa de banho.
-Dialogue: 0,0:03:25.74,0:03:29.16,Default,,0,0,0,,Você não sabia, Kyoma-san? Eu suo.
+Dialogue: 0,0:03:25.74,0:03:29.16,Default,,0,0,0,,Você não sabia, Kyouma-san? Eu suo.
 Dialogue: 0,0:03:29.37,0:03:30.58,Default,,0,0,0,,Quem liga?
 Dialogue: 0,0:03:30.79,0:03:35.75,Default,,0,0,0,,Meu corpo foi feito para funcionar como o de um humano,
 Dialogue: 0,0:03:35.96,0:03:42.34,Default,,0,0,0,,então como um corpo humano, regula o calor de forma endotérmica ao criar suor.
@@ -93,7 +92,7 @@ Dialogue: 0,0:03:48.97,0:03:50.73,Default,,0,0,0,,Por que você não pula no oce
 Dialogue: 0,0:03:50.93,0:03:52.89,Default,,0,0,0,,Vai ficar sal na superfície do meu corpo.
 Dialogue: 0,0:03:53.10,0:03:55.02,Default,,0,0,0,,Além disso vou me sentir ainda mais grudenta.
 Dialogue: 0,0:03:55.23,0:03:56.52,Default,,0,0,0,,Então um rio deve servir.
-Dialogue: 0,0:03:56.73,0:03:59.15,Default,,0,0,0,,Ei, Kyoma-san? Aonde você vai?
+Dialogue: 0,0:03:56.73,0:03:59.15,Default,,0,0,0,,Ei, Kyouma-san? Aonde você vai?
 Dialogue: 0,0:03:59.36,0:04:00.65,Default,,0,0,0,,Pra casa de banho.{https://en.wikipedia.org/wiki/Sent%C5%8D}
 Dialogue: 0,0:04:00.86,0:04:01.45,Default,,0,0,0,,Não me siga.
 Dialogue: 0,0:04:01.65,0:04:02.86,Default,,0,0,0,,Eu também vou!
@@ -122,13 +121,13 @@ Comment: 0,0:04:20.15,0:04:20.53,bath,,0,0,0,,{\blur2.25\an8\fscx65\fscy131\pos(
 Dialogue: 0,0:04:22.56,0:04:25.16,Default,,0,0,0,,Coloque isso no balcão do atendente quando entrar.
 Comment: 0,0:04:27.36,0:04:28.66,bath,,0,0,0,,{\blur1.5\fscx106\fscy162\an8\pos(1382.4,540.6)\c&H959794&}Banho
 Comment: 0,0:04:27.36,0:04:28.66,bath,,0,0,0,,{\blur1.5\an8\fscx65\fscy131\pos(1392,859.8)\c&HABADAA&}Homens
-Dialogue: 0,0:04:38.32,0:04:40.19,Default,,0,0,0,,Kyoma-san!
+Dialogue: 0,0:04:38.32,0:04:40.19,Default,,0,0,0,,Kyouma-san!
 Dialogue: 0,0:04:45.45,0:04:47.20,Default,,0,0,0,,Ah, Mabuchi!
 Dialogue: 0,0:04:47.41,0:04:49.16,Default,,0,0,0,,Que coincidên{\fscx200}-
 Dialogue: 0,0:04:51.45,0:04:52.50,Default,,0,0,0,,Oh?
 Dialogue: 0,0:04:52.70,0:04:54.04,Default,,0,0,0,,Ah, Ellie-san!
 Dialogue: 0,0:04:54.25,0:04:56.08,Default,,0,0,0,,Que coincidência!
-Dialogue: 0,0:04:56.29,0:04:59.34,Default,,0,0,0,,Por que uma robô veio para casa de banho?
+Dialogue: 0,0:04:56.29,0:04:59.34,Default,,0,0,0,,Por que uma robô veio a uma casa de banho?
 Dialogue: 0,0:05:02.34,0:05:04.80,Default,,0,0,0,,Eu gosto de ficar limpa.
 Dialogue: 0,0:05:05.01,0:05:06.09,Default,,0,0,0,,Sei.
 Dialogue: 0,0:05:15.27,0:05:19.36,Default,,0,0,0,,Às vezes é legal ficar só nós juntos, \Ncompanheiros de guerra, não acha?
@@ -138,7 +137,7 @@ Dialogue: 0,0:05:28.28,0:05:31.28,Default,,0,0,0,,Ellie-san, posso te pedir um c
 Dialogue: 0,0:05:31.49,0:05:32.54,Default,,0,0,0,,Hum?
 Dialogue: 0,0:05:32.74,0:05:37.33,Default,,0,0,0,,Não tenho ninguém que eu possa pedir um conselho sobre isso...
 Dialogue: 0,0:05:37.54,0:05:40.09,Default,,0,0,0,,Conselho sobre o quê?
-Dialogue: 0,0:05:40.29,0:05:45.42,Default,,0,0,0,,Acontece que o Kyoma-san não quer me chamar pelo nome,
+Dialogue: 0,0:05:40.29,0:05:45.42,Default,,0,0,0,,Acontece que o Kyouma-san não quer me chamar pelo nome,
 Dialogue: 0,0:05:45.63,0:05:49.05,Default,,0,0,0,,mesmo quando eu quero que ele chame...
 Dialogue: 0,0:05:49.80,0:05:52.31,Default,,0,0,0,,Tem algum jeito de convencê-lo a fazer isso?
 Dialogue: 0,0:05:52.51,0:05:55.39,Default,,0,0,0,,Seu cérebro está quebrado ou o quê?
@@ -167,7 +166,7 @@ Dialogue: 0,0:06:57.95,0:06:59.50,Default,,0,0,0,,Ah, olá!
 Dialogue: 0,0:06:59.71,0:07:00.92,Default,,0,0,0,,Quem são elas?
 Dialogue: 0,0:07:01.12,0:07:03.88,Default,,0,0,0,,Azumaya-san e suas funcionárias da loja de roupas japonesas.
 Dialogue: 0,0:07:04.09,0:07:05.17,Default,,0,0,0,,Loja de roupas japonesas?
-Dialogue: 0,0:07:05.38,0:07:07.01,nota,,0,0,0,,*Nota: "happi" é aquele tipo de kimono que o Kyoma usa.
+Dialogue: 0,0:07:05.38,0:07:07.01,nota,,0,0,0,,*Nota: "happi" é aquele tipo de kimono que o Kyouma usa.
 Dialogue: 0,0:07:05.38,0:07:07.01,Default,,0,0,0,,Ah, o lugar que vende happi.
 Dialogue: 0,0:07:07.21,0:07:08.30,Default,,0,0,0,,Hello! Hello!
 Dialogue: 0,0:07:08.51,0:07:10.09,Default,,0,0,0,,Olá!
@@ -188,9 +187,9 @@ Dialogue: 0,0:07:44.88,0:07:50.84,Default,,0,0,0,,Como uma garota, você não qu
 Dialogue: 0,0:07:51.05,0:07:53.18,Default,,0,0,0,,Venha quando quiser.
 Dialogue: 0,0:07:54.14,0:07:55.10,Default,,0,0,0,,Se me der vontade...
 Dialogue: 0,0:07:55.30,0:07:57.43,Default,,0,0,0,,Venha, por favor!
-Dialogue: 0,0:07:57.89,0:08:00.56,Default,,0,0,0,,A propósito, o Kyoma-san está aqui também?
+Dialogue: 0,0:07:57.89,0:08:00.56,Default,,0,0,0,,A propósito, o Kyouma-san está aqui também?
 Dialogue: 0,0:08:00.77,0:08:01.35,Default,,0,0,0,,Sim!
-Dialogue: 0,0:08:01.56,0:08:05.27,Default,,0,0,0,,Ele esqueceu de pagar a conta da água, então cortaram nossa água.
+Dialogue: 0,0:08:01.56,0:08:05.27,Default,,0,0,0,,Ele esqueceu de pagar a conta, então cortaram nossa água.
 Dialogue: 0,0:08:06.27,0:08:07.82,Default,,0,0,0,,É mesmo?
 Dialogue: 0,0:08:08.02,0:08:14.61,Default,,0,0,0,,Parece que vou ter que dar uma dura lição nele sobre o que significa ser um adulto responsável.
 Dialogue: 0,0:08:17.08,0:08:19.16,Default,,0,0,0,,Ahn, Tsubaki-san?
@@ -198,7 +197,7 @@ Dialogue: 0,0:08:19.37,0:08:23.79,Default,,0,0,0,,Tem uma coisa que eu queria te
 Dialogue: 0,0:08:24.00,0:08:27.50,Default,,0,0,0,,Pode me perguntar sobre o que você quiser.
 Dialogue: 0,0:08:28.63,0:08:29.80,Default,,0,0,0,,Aquela idiota.
 Dialogue: 0,0:08:30.01,0:08:31.63,Default,,0,0,0,,Não é uma graça?
-Dialogue: 0,0:08:31.84,0:08:36.55,Default,,0,0,0,,Eu nunca ouvi falar de um robô querendo ser chamado pelo nome, no entanto.
+Dialogue: 0,0:08:31.84,0:08:36.55,Default,,0,0,0,,Eu nunca ouvi falar de um robô querendo ser chamado pelo nome.
 Dialogue: 0,0:08:36.76,0:08:40.14,Default,,0,0,0,,Essa IA dever ter tido uma educação bem peculiar.
 Dialogue: 0,0:08:40.35,0:08:42.85,Default,,0,0,0,,Ela é só uma lata-velha.
 Dialogue: 0,0:08:43.94,0:08:49.27,Default,,0,0,0,,Eu já acho que ser chamada por um \Napelido só mostra como são próximos.
@@ -213,7 +212,7 @@ Dialogue: 0,0:09:11.25,0:09:12.67,Default,,0,0,0,,Quem sabe.
 Dialogue: 0,0:09:13.42,0:09:14.80,Default,,0,0,0,,Não se preocupe.
 Dialogue: 0,0:09:15.01,0:09:17.43,Default,,0,0,0,,Vou disciplinar ele direitinho.
 Dialogue: 0,0:09:17.64,0:09:19.80,Default,,0,0,0,,Ele é meu irmãozinho afinal.
-Dialogue: 0,0:09:20.01,0:09:22.77,Default,,0,0,0,,Oh, parece que o Kyoma-san está saindo.
+Dialogue: 0,0:09:20.01,0:09:22.77,Default,,0,0,0,,Oh, parece que o Kyouma-san está saindo.
 Dialogue: 0,0:09:25.39,0:09:29.65,Default,,0,0,0,,Obrigada por hoje. Por favor, me dêem conselhos novamente alguma outra ora!
 Dialogue: 0,0:09:32.36,0:09:35.57,Default,,0,0,0,,Será que ela podia ver o banho dos homens esse tempo todo...
 Dialogue: 0,0:09:35.78,0:09:36.99,Default,,0,0,0,,Como não poderia ver?
@@ -230,7 +229,7 @@ Dialogue: 0,0:10:12.94,0:10:18.49,end,,0,0,0,,{\fad(100,100)\blur4.5}Segurando m
 Dialogue: 0,0:10:18.70,0:10:21.20,end,,0,0,0,,{\fad(100,100)\blur4.5}{\c&H0DD9E3&}Estigmas sendo queimados em minhas pálpebras
 Dialogue: 0,0:10:21.41,0:10:23.95,end,,0,0,0,,{\fad(100,100)\blur4.5}{\c&H0DD9E3&}Brandindo uma faca frágil
 Dialogue: 0,0:10:24.16,0:10:28.00,end,,0,0,0,,{\fad(100,100)\blur4.5}{\c&H0DD9E3&}O futuro em colapso
-Dialogue: 0,0:10:28.21,0:10:33.96,end,,0,0,0,,{\fad(100,100)\blur4.5\c&H1400C5&}Preso para sempre em um mundo onde vejo em câmera-lenta
+Dialogue: 0,0:10:28.21,0:10:33.96,end,,0,0,0,,{\fad(100,100)\blur4.5\c&H1400C5&}Preso para sempre em um mundo onde vejo em câmera lenta
 Dialogue: 0,0:10:34.17,0:10:39.97,end,,0,0,0,,{\fad(100,100)\blur4.5\c&H1400C5&}Antes que eu percebesse, odiei até a mim mesmo
 Dialogue: 0,0:10:40.18,0:10:44.81,end,,0,0,0,,{\fad(100,100)\blur4.5}Alcançando o fruto proibido
 Dialogue: 0,0:10:45.01,0:10:52.73,end,,0,0,0,,{\fad(100,100)\blur4.5}Minhas células sem nome clamam

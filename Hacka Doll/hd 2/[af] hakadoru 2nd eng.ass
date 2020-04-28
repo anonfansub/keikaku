@@ -10,57 +10,59 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
+Last Style Storage: Default
 Audio File: Hacka Doll 2nd.mp4
 Video File: Hacka Doll 2nd.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 21
-Active Line: 32
-Video Position: 1953
+Active Line: 5
+Video Position: 371
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,45,1
+Style: Default,Komika Text,90,&H00FFFFFF,&H000000FF,&H00D60B92,&H001E470B,-1,0,0,0,88,100,0,0,1,3,3,2,10,10,50,1
+Style: note,Aurora BdCn BT,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,7,50,10,40,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.80,0:00:05.18,Default,,0,0,0,,やめてください
-Dialogue: 0,0:00:05.36,0:00:07.36,Default,,0,0,0,,De novo no Twitter, você gosta mesmo ein.
-Dialogue: 0,0:00:07.68,0:00:09.77,Default,,0,0,0,,Mas é tão divertido poxa!
-Dialogue: 0,0:00:09.87,0:00:12.54,Default,,0,0,0,,そろそろ 配信の時間じゃない
-Dialogue: 0,0:00:13.05,0:00:15.07,Default,,0,0,0,,Hoje é a vez da 3 né?
-Dialogue: 0,0:00:15.44,0:00:18.07,Default,,0,0,0,,Ah, nanamin...
-Dialogue: 0,0:00:18.08,0:00:19.83,Default,,0,0,0,,最高だよ
-Dialogue: 0,0:00:19.85,0:00:20.98,Default,,0,0,0,,hum? ahn?
-Dialogue: 0,0:00:21.12,0:00:23.57,Default,,0,0,0,, nani sono sa? kono chichibu kara!
-Dialogue: 0,0:00:23.80,0:00:26.39,Default,,0,0,0,,3-chan, alguém tem que entregar o relatório...
-Dialogue: 0,0:00:26.88,0:00:27.83,Default,,0,0,0,,Eu tinha esquecido.
-Dialogue: 0,0:00:27.87,0:00:30.50,Default,,0,0,0,,20代 男性 そういう人には とりあえず1000円
+Dialogue: 0,0:00:01.80,0:00:05.18,Default,,0,0,0,,Something, please stop.
+Dialogue: 0,0:00:05.36,0:00:07.36,Default,,0,0,0,,Again on twitter? You really like it, huh.{De novo no Twitter, você gosta mesmo ein.}
+Dialogue: 0,0:00:07.68,0:00:09.77,Default,,0,0,0,,But is so funny!{Mas é tão divertido poxa!}
+Dialogue: 0,0:00:09.87,0:00:12.54,Default,,0,0,0,,Hey, it ’s almost time for delivery, right?
+Dialogue: 0,0:00:13.05,0:00:15.07,Default,,0,0,0,,Today is 3's turn, right?{Hoje é a vez da 3 né?}
+Dialogue: 0,0:00:15.44,0:00:18.07,note,,0,0,0,,{\blur2}note: Nanamin is the 3-chan's V.A.
+Dialogue: 0,0:00:15.44,0:00:18.07,Default,,0,0,0,,Ah, Nanamin...
+Dialogue: 0,0:00:18.08,0:00:19.83,Default,,0,0,0,,You are the best.
+Dialogue: 0,0:00:19.85,0:00:20.98,Default,,0,0,0,,Hum? Ahn?
+Dialogue: 0,0:00:21.12,0:00:23.57,Default,,0,0,0,,What are you doing? From this Chichibu! {nani suii no sa? kono chichibu kara!}
+Dialogue: 0,0:00:23.80,0:00:26.39,Default,,0,0,0,,3-chan, someone has to present the report{alguém tem que entregar o relatório}...
+Dialogue: 0,0:00:26.88,0:00:27.83,Default,,0,0,0,,I totally forgot.{Eu tinha esquecido.}
+Dialogue: 0,0:00:27.87,0:00:30.50,Default,,0,0,0,,Absolutely dont forget or will be bad
 Dialogue: 0,0:00:30.52,0:00:32.62,Default,,0,0,0,,toukyu man de wa nai tamo
-Dialogue: 0,0:00:32.62,0:00:34.12,Default,,0,0,0,,Ai, só mais 30 segundos!
+Dialogue: 0,0:00:32.62,0:00:34.12,Default,,0,0,0,,Shit, just 30 seconds left!{Ai, só mais 30 segundos!}
 Dialogue: 0,0:00:39.68,0:00:40.89,Default,,0,0,0,,Pera, tudo isso?
-Dialogue: 0,0:00:34.38,0:00:39.75,Default,,0,0,0,,Deixa comigo! 20代 男性 そういう人には とりあえず1000円
-Dialogue: 0,0:00:40.96,0:00:45.37,Default,,0,0,0,,女の子のイケメン揃いのゲームで食べる これあなたの趣味ちゃん Jogo de caras bonitões
+Dialogue: 0,0:00:34.38,0:00:39.75,Default,,0,0,0,,Leave it to me{Deixa comigo}! 20代 男性 そういう人には とりあえず1000円
+Dialogue: 0,0:00:40.96,0:00:42.47,Default,,0,0,0,, A 20 years old girl!
+Dialogue: 0,0:00:42.50,0:00:45.37,Default,,0,0,0,,{女の子のイケメン揃いのゲームで食べる これあなたの趣味ちゃんJogo de caras bonitões} Then a good game with sexy strong man is the obvious choice!
 Dialogue: 0,0:00:45.38,0:00:47.07,Default,,0,0,0,,Esse é o seu perfil...
 Dialogue: 0,0:00:47.12,0:00:49.20,Default,,0,0,0,,eeee jikan ja
-Dialogue: 0,0:00:49.20,0:00:50.36,Default,,0,0,0,,saigo mutetsu da
-Dialogue: 0,0:00:50.36,0:00:52.62,Default,,0,0,0,,Sete mares...
-Dialogue: 0,0:00:52.35,0:00:53.99,Default,,0,0,0,,Ai so mais 10!
-Dialogue: 0,0:00:54.27,0:00:56.08,Default,,0,0,0,,今週は 超展開になっちゃう
-Dialogue: 0,0:00:56.10,0:00:58.38,Default,,0,0,0,, 諦めたらそこで試合
-Dialogue: 0,0:00:57.85,0:00:58.95,Default,,0,0,0,,nanamin
+Dialogue: 0,0:00:49.20,0:00:50.36,Default,,0,0,0,,This is the last moment!{saigo mutetsu da}
+Dialogue: 0,0:00:50.36,0:00:52.62,Default,,0,0,0,,Nanamin!
+Dialogue: 0,0:00:52.35,0:00:53.99,Default,,0,0,0,,Ah, just ten left{Ai so mais 10}!
+Dialogue: 0,0:00:54.27,0:00:56.08,Default,,0,0,0,,This week it will be a super deployment
+Dialogue: 0,0:00:56.10,0:00:58.38,Default,,0,0,0,,Hey, if you give up then it all ends here!
+Dialogue: 0,0:00:57.85,0:00:58.95,Default,,0,0,0,,Nanamin...
 Dialogue: 0,0:00:59.04,0:01:00.44,Default,,0,0,0,,Acorda pra vida!
-Dialogue: 0,0:01:01.33,0:01:02.28,Default,,0,0,0,,Ora ora...
-Dialogue: 0,0:01:01.95,0:01:03.37,Default,,0,0,0,,SEven seas....
+Dialogue: 0,0:01:01.33,0:01:02.28,Default,,0,0,0,,Ora, ora.
+Dialogue: 0,0:01:01.95,0:01:03.37,Default,,0,0,0,,Nanamin....
 Dialogue: 0,0:01:06.31,0:01:08.14,Default,,0,0,0,,typo
-Dialogue: 0,0:01:11.82,0:01:13.75,Default,,0,0,0,,携帯が失敗しちゃったけどHoje foi um fracasso total mas...
-Dialogue: 0,0:01:13.98,0:01:17.65,Default,,0,0,0,,A verdade é que本当はちゃんとあなたにピ彼のニュースをお届けしますよ
-Dialogue: 0,0:01:18.08,0:01:19.97,Default,,0,0,0,,あなたにぴったりなだけじゃなくって
-Dialogue: 0,0:01:20.24,0:01:23.71,Default,,0,0,0,,好きになりそうなものも 配信してるのよ
-Dialogue: 0,0:01:23.96,0:01:24.73,Default,,0,0,0,,ちなみに Sem falar que,
-Dialogue: 0,0:01:24.99,0:01:28.32,Default,,0,0,0,,どんな雰囲気の記事が好きかとかも分析してるよ \NI also analyze what kind of atmosphere you like.
-Dialogue: 0,0:01:28.83,0:01:30.62,Default,,0,0,0,,Por exemplo, 例えば 公式っぽいもの something that looks like an official
+Dialogue: 0,0:01:11.82,0:01:13.75,Default,,0,0,0,,This time was a total failure but{Hoje foi um fracasso total mas}...
+Dialogue: 0,0:01:13.98,0:01:17.65,Default,,0,0,0,,{A verdade é que}Actually, I will send you hot news.
+Dialogue: 0,0:01:18.08,0:01:19.97,Default,,0,0,0,,Not just for you,
+Dialogue: 0,0:01:20.24,0:01:23.71,Default,,0,0,0,,From now on we also distribute things that you may like
+Dialogue: 0,0:01:23.96,0:01:28.38,Default,,0,0,0,,{ちなみに Sem falar que}By the way, {どんな雰囲気の記事が好きかとかも分析してるよ} I also analyze what kind of atmosphere you like.
+Dialogue: 0,0:01:28.83,0:01:30.62,Default,,0,0,0,,{Por exemplo,} For example, something that looks like an official
 Dialogue: 0,0:01:30.88,0:01:31.90,Default,,0,0,0,,チョロン ぽいもの
-Dialogue: 0,0:01:32.16,0:01:33.58,Default,,0,0,0,,まとめ ぽいものとか
-Dialogue: 0,0:01:33.95,0:01:38.30,Default,,0,0,0,,これからも 君にシンクロするニュースアプリ ハッカドール はよろしくね Seu app de noticias atualizadasm hackadoll
+Dialogue: 0,0:01:32.16,0:01:33.58,Default,,0,0,0,,{まとめ ぽいものとか} Or maybe something like a summary.
+Dialogue: 0,0:01:33.95,0:01:38.30,Default,,0,0,0,,{これからも 君にシンクロするニュースアプリ ハッカドール はよろしくね Seu app de noticias atualizadasm hackadoll} From now on, you can count with your news app, Hacka Doll.
