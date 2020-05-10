@@ -1,0 +1,60 @@
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç CA1C-AC2A
+
+ Pasta de C:\FANSUB\keikaku
+
+10/05/2020  15:36    <DIR>          .
+10/05/2020  15:36    <DIR>          ..
+18/04/2020  14:02               137 .gitignore
+10/05/2020  15:05             1.781 ahegao.txt
+10/05/2020  15:36                 0 log.txt
+02/05/2020  16:13    <DIR>          Movies
+02/05/2020  16:03    <DIR>          MV
+02/05/2020  16:02    <DIR>          OAD
+02/05/2020  16:05    <DIR>          ONA
+02/05/2020  16:13    <DIR>          OVA
+18/04/2020  14:07             5.347 README.md
+06/05/2020  03:09    <DIR>          Specials
+02/05/2020  16:09    <DIR>          TV
+               4 arquivo(s)          7.265 bytes
+               9 pasta(s)   553.075.187.712 bytes dispon°veis
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç CA1C-AC2A
+
+ Pasta de C:\FANSUB\keikaku
+
+10/05/2020  15:36    <DIR>          .
+10/05/2020  15:36    <DIR>          ..
+18/04/2020  14:02               137 .gitignore
+10/05/2020  15:05             1.781 ahegao.txt
+10/05/2020  15:36               786 log.txt
+02/05/2020  16:13    <DIR>          Movies
+02/05/2020  16:03    <DIR>          MV
+02/05/2020  16:02    <DIR>          OAD
+02/05/2020  16:05    <DIR>          ONA
+02/05/2020  16:13    <DIR>          OVA
+18/04/2020  14:07             5.347 README.md
+06/05/2020  03:09    <DIR>          Specials
+02/05/2020  16:09    <DIR>          TV
+               4 arquivo(s)          8.051 bytes
+               9 pasta(s)   553.075.179.520 bytes dispon°veis
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç CA1C-AC2A
+
+ Pasta de C:\FANSUB\keikaku
+
+10/05/2020  15:36    <DIR>          .
+10/05/2020  15:36    <DIR>          ..
+18/04/2020  14:02               137 .gitignore
+10/05/2020  15:05             1.781 ahegao.txt
+10/05/2020  15:36             1.572 log.txt
+02/05/2020  16:13    <DIR>          Movies
+02/05/2020  16:03    <DIR>          MV
+02/05/2020  16:02    <DIR>          OAD
+02/05/2020  16:05    <DIR>          ONA
+02/05/2020  16:13    <DIR>          OVA
+18/04/2020  14:07             5.347 README.md
+06/05/2020  03:09    <DIR>          Specials
+02/05/2020  16:09    <DIR>          TV
+               4 arquivo(s)          8.837 bytes
+               9 pasta(s)   553.075.220.480 bytes dispon°veis
