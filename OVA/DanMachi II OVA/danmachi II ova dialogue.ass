@@ -4,8 +4,8 @@
 Title: HIDIVE
 ScriptType: v4.00+
 WrapStyle: 0
-PlayResX: 1920
-PlayResY: 1080
+PlayResX: 1280
+PlayResY: 720
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
 Original Script: HIDIVE
@@ -16,83 +16,84 @@ Script Updated By: KiyoshiStar
 Update Details: Typesetting, Sign Re-timing
 
 [Aegisub Project Garbage]
-Audio File: [Ohys-Raws] Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka Familia Myth II OVA (BD 1920x1080 x264 FLAC).mkv
-Video File: [Ohys-Raws] Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka Familia Myth II OVA (BD 1920x1080 x264 FLAC).mkv
+Audio File: [Ohys-Raws] Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka Familia Myth II OVA (BD 1280x720 x264 AAC).mp4
+Video File: [Ohys-Raws] Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka Familia Myth II OVA (BD 1280x720 x264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Active Line: 418
-Video Position: 36157
+Video Zoom Percent: 0.500000
+Scroll Position: 20
+Active Line: 24
+Video Position: 2018
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Open Sans Semibold,51,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,3,2,30,30,30,1
-Style: Main,Gandhi Sans,78,&H00FFFFFF,&HFF0000FF,&H00441111,&HC8000000,-1,0,0,0,100,100,0,0,1,4,2,2,10,10,60,1
-Style: Subtitle-3,HelveticaNeue LT 65 Medium,54,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1.5,2,38,38,38,1
-Style: Top,Gandhi Sans,78,&H00FFFFFF,&HFF0000FF,&H00441111,&HC8000000,-1,0,0,0,100,100,0,0,1,4,2,8,200,200,57,1
-Style: Episode Title,Kozuka Mincho Pro B,54,&H00FFFFFF,&H000000FF,&H00A84500,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,0,0,42,1
-Style: OP1-Romaji,Cheboygan,72,&H00FFFFFF,&H000000FF,&H001A4138,&H00000000,0,0,0,0,95,100,1,0,1,3.75,0,8,150,150,30,1
-Style: OP1-English,Cheboygan,72,&H00FFFFFF,&H000000FF,&H001A4138,&H00000000,0,0,0,0,95,100,1,0,1,3.75,0,2,120,120,45,1
-Style: ED-Romaji,Averia Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&H00FFFFFF,0,0,0,0,100,100,0,0,1,3,1.99999,8,45,45,30,1
-Style: ED-English,Averia Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&H00FFFFFF,0,0,0,0,100,100,0,0,1,3,1.99999,2,45,45,41,1
-Style: Welcome,Balloon XBd BT,60,&H00FF9B37,&H00FF9B37,&H000E76F2,&H000E76F2,-1,0,0,0,100,100,0,0,3,1.5,1.5,2,30,30,30,1
-Style: Paradise,Balloon XBd BT,30,&H0008D84A,&H00008000,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,3,2,38,38,38,1
-Style: NipSlip,Balloon XBd BT,60,&H00FF00FF,&H00FFFFFF,&H00FFFFFF,&H00000000,-1,0,-1,0,100,100,0,0,1,3,1.5,2,30,30,30,1
-Style: Caption-4,BakerSignet BT,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,3,2,30,30,30,1
-Style: EVERYTHING,AdLib BT,60,&H00472AD1,&H00472AD1,&H00BB5254,&H00000000,-1,0,0,0,100,100,0,0,1,4.5,1.5,2,30,30,30,1
-Style: Flower,Arial Black,75,&H00EBF5EB,&H00FFFFFF,&H003C47EF,&H00000000,-1,0,0,0,100,100,0,0,1,5.25,1.5,2,30,30,30,1
-Style: HestiaFamilia,BPreplay,90,&H00F311F0,&H00E600E0,&H00EBF5EB,&H00000000,0,0,0,0,100,100,0,0,1,4.5,1.5,2,30,30,30,1
-Style: HeartPound,AdLib BT,90,&H000080FF,&H000080FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4.5,1.5,2,30,30,30,1
-Style: Transformation,COCOGOOSE,68,&H00030DC6,&H000000CA,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,4.5,3,2,30,30,30,1
-Style: Reveal,AdLib BT,83,&H0007D94A,&H0000FF80,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4.5,1.5,2,30,30,30,1
-Style: Hestia,AdLib BT,75,&H00E8B402,&H00E8B402,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4.5,1.5,2,30,30,30,1
-Style: Liliruca,AdLib BT,75,&H00BE18EE,&H00E600E0,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4.5,1.5,2,30,30,30,1
-Style: Swimsuit,AdLib BT,68,&H00F0870D,&H00FF9F40,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4.5,1.5,2,30,30,30,1
-Style: Main Title,Times New Roman,78,&H00FFFFFD,&H000000FF,&H0046320F,&H00393847,-1,0,0,0,100,100,0,0,1,4,1.99999,8,30,30,60,1
-Style: OP Romaji,Goudy Old Style,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,110,0,0,1,3,0,8,38,38,38,1
-Style: OP Romaji 2,Goudy Old Style,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,110,0,0,1,3,0,8,38,38,38,1
-Style: OP Eng,Goudy Old Style,69,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,110,0,0,1,3,0,2,38,38,38,1
-Style: ED Romaji,Andalus,90,&H13FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,1.5,8,15,15,27,1
-Style: ED Eng,Andalus,75,&H13FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,8,15,15,95,1
-Style: Signs,Arial,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,1.5,2,15,15,15,1
-Style: Italics,Gandhi Sans,78,&H00FFFFFF,&HFF0000FF,&H00441111,&HC8000000,-1,-1,0,0,100,100,0,0,1,4,2,2,200,200,57,1
-Style: Flashback,Gandhi Sans,78,&H00FFFFFF,&HFF0000FF,&H00441111,&HC8000000,-1,0,0,0,100,100,0,0,1,4,2,2,200,200,57,1
+Style: Default,Open Sans Semibold,34,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Main,Gandhi Sans,52,&H00FFFFFF,&HFF0000FF,&H00441111,&HC8000000,-1,0,0,0,100,100,0,0,1,2.66667,1.33333,2,7,7,40,1
+Style: Subtitle-3,HelveticaNeue LT 65 Medium,36,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,25,25,25,1
+Style: Top,Gandhi Sans,52,&H00FFFFFF,&HFF0000FF,&H00441111,&HC8000000,-1,0,0,0,100,100,0,0,1,2.66667,1.33333,8,133,133,38,1
+Style: Episode Title,Kozuka Mincho Pro B,36,&H00FFFFFF,&H000000FF,&H00A84500,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,0,0,28,1
+Style: OP1-Romaji,Cheboygan,48,&H00FFFFFF,&H000000FF,&H001A4138,&H00000000,0,0,0,0,95,100,0.666667,0,1,2.5,0,8,100,100,20,1
+Style: OP1-English,Cheboygan,48,&H00FFFFFF,&H000000FF,&H001A4138,&H00000000,0,0,0,0,95,100,0.666667,0,1,2.5,0,2,80,80,30,1
+Style: ED-Romaji,Averia Serif,41,&H00FFFFFF,&H000000FF,&H00000000,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,1.33333,8,30,30,20,1
+Style: ED-English,Averia Serif,41,&H00FFFFFF,&H000000FF,&H00000000,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,1.33333,2,30,30,27,1
+Style: Welcome,Balloon XBd BT,40,&H00FF9B37,&H00FF9B37,&H000E76F2,&H000E76F2,-1,0,0,0,100,100,0,0,3,1,1,2,20,20,20,1
+Style: Paradise,Balloon XBd BT,20,&H0008D84A,&H00008000,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,25,25,25,1
+Style: NipSlip,Balloon XBd BT,40,&H00FF00FF,&H00FFFFFF,&H00FFFFFF,&H00000000,-1,0,-1,0,100,100,0,0,1,2,1,2,20,20,20,1
+Style: Caption-4,BakerSignet BT,29,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: EVERYTHING,AdLib BT,40,&H00472AD1,&H00472AD1,&H00BB5254,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,20,20,20,1
+Style: Flower,Arial Black,50,&H00EBF5EB,&H00FFFFFF,&H003C47EF,&H00000000,-1,0,0,0,100,100,0,0,1,3.5,1,2,20,20,20,1
+Style: HestiaFamilia,BPreplay,60,&H00F311F0,&H00E600E0,&H00EBF5EB,&H00000000,0,0,0,0,100,100,0,0,1,3,1,2,20,20,20,1
+Style: HeartPound,AdLib BT,60,&H000080FF,&H000080FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,20,20,20,1
+Style: Transformation,COCOGOOSE,45,&H00030DC6,&H000000CA,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,2,2,20,20,20,1
+Style: Reveal,AdLib BT,55,&H0007D94A,&H0000FF80,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,20,20,20,1
+Style: Hestia,AdLib BT,50,&H00E8B402,&H00E8B402,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,20,20,20,1
+Style: Liliruca,AdLib BT,50,&H00BE18EE,&H00E600E0,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,20,20,20,1
+Style: Swimsuit,AdLib BT,45,&H00F0870D,&H00FF9F40,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,20,20,20,1
+Style: Main Title,Times New Roman,52,&H00FFFFFD,&H000000FF,&H0046320F,&H00393847,-1,0,0,0,100,100,0,0,1,2.66667,1.33333,8,20,20,40,1
+Style: OP Romaji,Goudy Old Style,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,110,0,0,1,2,0,8,25,25,25,1
+Style: OP Romaji 2,Goudy Old Style,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,110,0,0,1,2,0,8,25,25,25,1
+Style: OP Eng,Goudy Old Style,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,110,0,0,1,2,0,2,25,25,25,1
+Style: ED Romaji,Andalus,60,&H13FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,8,10,10,18,1
+Style: ED Eng,Andalus,50,&H13FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,8,10,10,63,1
+Style: Signs,Arial,20,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
+Style: Italics,Gandhi Sans,52,&H00FFFFFF,&HFF0000FF,&H00441111,&HC8000000,-1,-1,0,0,100,100,0,0,1,2.66667,1.33333,2,133,133,38,1
+Style: Flashback,Gandhi Sans,52,&H00FFFFFF,&HFF0000FF,&H00441111,&HC8000000,-1,0,0,0,100,100,0,0,1,2.66667,1.33333,2,133,133,38,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:01.31,0:00:02.89,Main,,0,0,0,,We're back.
 Dialogue: 0,0:00:03.02,0:00:05.65,Main,,0,0,0,,Welcome home, you two.
-Dialogue: 0,0:00:06.11,0:00:08.48,Main,,0,0,0,,Here. Today's earnings from the Dungeon.
-Dialogue: 0,0:00:10.36,0:00:13.11,Main,,0,0,0,,Already deducted the equipment costs\Nfor our weapons and such.
+Dialogue: 0,0:00:06.11,0:00:08.48,Main,,0,0,0,,Aqui, os ganhos de hoje da dungeon.
+Dialogue: 0,0:00:10.36,0:00:13.11,Main,,0,0,0,,Os custos equipment costs for our weapons and such já foi deduzido.
 Dialogue: 0,0:00:13.28,0:00:14.70,Main,,0,0,0,,I appreciate your help.
-Dialogue: 0,0:00:17.70,0:00:22.83,Main,,0,0,0,,The two of you have been an invaluable asset\Nto our Familia ever since you joined us.
-Dialogue: 0,0:00:23.29,0:00:25.04,Main,,0,0,0,,How kind of you to say.
-Dialogue: 0,0:00:26.96,0:00:29.50,Main,,0,0,0,,By the way, what are your plans for\Nthe quest you mentioned earlier?
+Dialogue: 0,0:00:17.70,0:00:22.83,Main,,0,0,0,,Vocês duas have been an invaluable asset\Nto our Familia desde que se juntaram.
+Dialogue: 0,0:00:23.29,0:00:25.04,Main,,0,0,0,,Que gentileza a sua.
+Dialogue: 0,0:00:26.96,0:00:29.50,Main,,0,0,0,,A propósito, what are your plans for\Nthe quest you mentioned earlier?
 Dialogue: 0,0:00:29.67,0:00:31.97,Main,,0,0,0,,We can take care of it ourselves, if necessary.
 Dialogue: 0,0:00:32.26,0:00:36.72,Main,,0,0,0,,Retrieving rare medicinal herbs from a deserted island...\NSounds interesting, to say the least.
 Dialogue: 0,0:00:37.76,0:00:39.06,Main,,0,0,0,,Actually...
 Dialogue: 0,0:00:40.93,0:00:46.06,Main,,0,0,0,,Miach-sama has proposed bypassing the Guild and\Nputting in a personal request with Bell and the others.
-Dialogue: 0,0:00:46.06,0:00:47.69,Main,,0,0,0,,The Hestia Familia?
+Dialogue: 0,0:00:46.06,0:00:47.69,Main,,0,0,0,,A Familia da Hestia?
 Dialogue: 0,0:00:47.69,0:00:48.90,Main,,0,0,0,,How come?
 Dialogue: 0,0:00:49.32,0:00:52.82,Main,,0,0,0,,A lot has happened recently,\Nand their Familia has grown...
-Dialogue: 0,0:00:52.82,0:00:54.65,Main,,0,0,0,,He'd like to congratulate them.
-Dialogue: 0,0:00:55.95,0:00:57.49,Main,,0,0,0,,I don't mean to argue, but...
-Dialogue: 0,0:00:57.49,0:01:01.87,Main,,0,0,0,,Herbs from a deserted island would be made\Ninto a medicine of immense worth...
-Dialogue: 0,0:01:01.87,0:01:06.12,Main,,0,0,0,,We're going to turn a profit,\Nregardless of which Familia we ask to retrieve them.
-Dialogue: 0,0:01:06.12,0:01:11.67,Main,,0,0,0,,But Miach-sama insists on doubling\Nthe reward for Bell-kun and the others to celebrate.
-Dialogue: 0,0:01:11.67,0:01:12.38,Main,,0,0,0,,What?
-Dialogue: 0,0:01:12.59,0:01:13.84,Main,,0,0,0,,And he wishes to pay them in advance.
+Dialogue: 0,0:00:52.82,0:00:54.65,Main,,0,0,0,,Ele queria parabenizá-los.
+Dialogue: 0,0:00:55.95,0:00:57.49,Main,,0,0,0,,Bom, nada contra, mas...
+Dialogue: 0,0:00:57.49,0:01:01.87,Main,,0,0,0,,Herbs de uma ilha deserta would be made into a medicine of immense worth...
+Dialogue: 0,0:01:01.87,0:01:06.12,Main,,0,0,0,,We're going to turn a profit, independente de qual Familia we ask to retrieve them.
+Dialogue: 0,0:01:06.12,0:01:11.67,Main,,0,0,0,,But Miach-sama insists on doubling\Nthe reward for Bell-kun e os outros para celebrar.
+Dialogue: 0,0:01:11.67,0:01:12.38,Main,,0,0,0,,É o quê?
+Dialogue: 0,0:01:12.59,0:01:13.84,Main,,0,0,0,,E ele quer pagar adiantado.
 Dialogue: 0,0:01:13.84,0:01:14.55,Main,,0,0,0,,What?!
-Dialogue: 0,0:01:14.72,0:01:17.80,Main,,0,0,0,,Essentially... it's an invitation for a relaxing vacation.
-Dialogue: 0,0:01:18.97,0:01:24.18,Main,,0,0,0,,I'm beginning to understand why\Nthis Familia is always in debt...
+Dialogue: 0,0:01:14.72,0:01:17.80,Main,,0,0,0,,Essentially, it's an invitation for a relaxing vacation.
+Dialogue: 0,0:01:18.97,0:01:24.18,Main,,0,0,0,,Estou começando a sacar por que esta Familia está sempre com dívidas...
 Dialogue: 0,0:01:24.18,0:01:25.81,Main,,0,0,0,,That's Miach-sama, for you.
-Dialogue: 0,0:01:27.06,0:01:29.48,Main,,0,0,0,,Is something the matter, ladies?
+Dialogue: 0,0:01:27.06,0:01:29.48,Main,,0,0,0,,Algo errado, mocinhas?
 Dialogue: 0,0:03:03.78,0:03:05.45,Main,,0,0,0,,Glittering sunlight!
-Dialogue: 0,0:03:05.45,0:03:06.66,Main,,0,0,0,,A blue ocean!
+Dialogue: 0,0:03:05.45,0:03:06.66,Main,,0,0,0,,Um oceano azul!
 Dialogue: 0,0:03:06.66,0:03:08.29,Main,,0,0,0,,White, sandy beaches!
 Dialogue: 0,0:03:08.66,0:03:11.46,Main,,0,0,0,,Welcome to Paradise Island!
 Dialogue: 0,0:03:24.85,0:03:29.14,Main,,0,0,0,,Here we are... on a deserted island named "Paradise"...
-Dialogue: 0,0:03:29.52,0:03:33.31,Main,,0,0,0,,Yes. When you invited me here,\NI assumed it was some sort of joke.
+Dialogue: 0,0:03:29.52,0:03:33.31,Main,,0,0,0,,Yes. When you invited me here, pensei que era alguma piada.
 Dialogue: 0,0:03:33.52,0:03:36.36,Main,,0,0,0,,You helped us out big time\Nduring the War Game, Miss Elf!
 Dialogue: 0,0:03:36.61,0:03:39.32,Main,,0,0,0,,Inviting you along was the least\Nwe could do to repay you!
 Dialogue: 0,0:03:39.32,0:03:40.78,Main,,0,0,0,,What a load of bull...
@@ -332,7 +333,7 @@ Dialogue: 0,0:15:58.60,0:15:59.72,Main,,0,0,0,,W-Wait, Bell!
 Dialogue: 0,0:15:59.89,0:16:01.52,Main,,0,0,0,,Welf, you jerk!
 Dialogue: 0,0:16:01.52,0:16:05.52,Main,,0,0,0,,You handsome, magic sword-hating blacksmith\Nwith your hunky swim trunks...!
 Dialogue: 0,0:16:05.98,0:16:06.98,Main,,0,0,0,,He's gone!
-Dialogue: 0,0:16:09.65,0:16:12.86,Main,,0,0,0,,{\fade(0,1000)}{\fs78}{\t(0,5000,\fs50,\bord3)}Bell!
+Dialogue: 0,0:16:09.65,0:16:12.86,Main,,0,0,0,,{\fade(0,1000)}{\fs52}{\t(0,5000,\fs50,\bord2)}Bell!
 Dialogue: 0,0:16:15.53,0:16:17.74,Main,,0,0,0,,It appears I've gotten myself hopelessly lost...
 Dialogue: 0,0:16:18.29,0:16:20.50,Main,,0,0,0,,And I haven't located the Everything Flower, either.
 Dialogue: 0,0:16:20.95,0:16:23.25,Main,,0,0,0,,Which direction leads back to the shore...?
@@ -477,5 +478,5 @@ Dialogue: 0,0:24:49.67,0:24:50.59,Main,,0,0,0,,Welcome.
 Dialogue: 0,0:24:50.92,0:24:53.30,Main,,0,0,0,,You must be exhausted from such a long journey.
 Dialogue: 0,0:24:54.08,0:24:54.93,Main,,0,0,0,,Have a seat, Bell.
 Dialogue: 0,0:24:55.22,0:24:57.26,Main,,0,0,0,,Tell us the riveting tale\Nof your visit to Paradise Island.
-Comment: 0,0:01:41.20,0:01:43.75,Main Title,,0,0,0,,{\bord0\shad0\fad(1000,1)}Is It Wrong to Pick up Girls in a Dungeon?{\fs90} {\c&HA6D1EC&\3c&H4B1CB5&\}II
-Comment: 0,0:01:43.75,0:01:47.21,Main Title,,0,0,0,,{\fad(500,0)}Is It Wrong to Pick up Girls in a Dungeon?{\fs90} {\c&HA6D1EC&\3c&H4B1CB5&\}II
+Comment: 0,0:01:41.20,0:01:43.75,Main Title,,0,0,0,,{\bord0\shad0\fad(1000,1)}Is It Wrong to Pick up Girls in a Dungeon?{\fs60} {\c&HA6D1EC&\3c&H4B1CB5&\}II
+Comment: 0,0:01:43.75,0:01:47.21,Main Title,,0,0,0,,{\fad(500,0)}Is It Wrong to Pick up Girls in a Dungeon?{\fs60} {\c&HA6D1EC&\3c&H4B1CB5&\}II
